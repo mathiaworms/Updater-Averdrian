@@ -1,0 +1,32 @@
+name: Generate Manifest
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch: # Permet d'exécuter le workflow manuellement
+
+jobs:
+  generate-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16' # Utilisez la version appropriée de Node.js
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Generate Manifest
+      run: node generate-manifest.js
+
+    - name: Upload Manifest
+      uses: actions/upload-artifact@v3
+      with:
+        name: manifest
+        path: manifest.json

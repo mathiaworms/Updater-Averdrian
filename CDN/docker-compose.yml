@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+  ls4:
+    build: .
+    container_name: ls4_cdn
+    hostname: ls4_cdn
+    restart: always
+    networks:
+      - traefik_default
+    labels:
+        - "traefik.enable=true"
+        - "traefik.http.routers.ls4_cdn.rule=Host(`cdn.leagues4.com`)"
+        - "traefik.http.routers.ls4_cdn.entrypoints=websecure"
+        - "traefik.http.routers.ls4_cdn.tls.certresolver=jandevresolver"
+
+networks:
+  traefik_default:
+    external: true
