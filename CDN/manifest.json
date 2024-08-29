@@ -1687,6 +1687,12 @@
       "hash": "e3937a559e67eafa379d1877f541cb899aa42b83d89bdd5a4a71c185577cadb8"
     },
     {
+      "name": "manifest.json",
+      "size": 570079,
+      "type": ".json",
+      "hash": "f12b9208d182f64ddd0a39ce3a307f869a4aa71a3a0dc2abf4fe35178d224630"
+    },
+    {
       "name": "mastery/100-gray.png",
       "size": 5742,
       "type": ".png",
@@ -3365,6 +3371,12 @@
       "size": 10852,
       "type": ".png",
       "hash": "b0b9d6cde9fe949546348c651023aca69c0b31a3e30e14ef1deefede0e2181b4"
+    },
+    {
+      "name": "rune/1001.png",
+      "size": 76418,
+      "type": ".png",
+      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
     },
     {
       "name": "rune/5001.png",
