@@ -1,0 +1,9 @@
+{
+    "name": "generate-manifest",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node generate-manifest.js"
+    },
+    "dependencies": {}
+  }
+  
