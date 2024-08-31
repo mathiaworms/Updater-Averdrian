@@ -1688,9 +1688,9 @@
     },
     {
       "name": "manifest.json",
-      "size": 570079,
+      "size": 570417,
       "type": ".json",
-      "hash": "f12b9208d182f64ddd0a39ce3a307f869a4aa71a3a0dc2abf4fe35178d224630"
+      "hash": "4f650ba14609f88cee7ad19919c007fc8bc8b1106f4873d5520d2030fed8bf6d"
     },
     {
       "name": "mastery/100-gray.png",
@@ -3373,2434 +3373,2446 @@
       "hash": "b0b9d6cde9fe949546348c651023aca69c0b31a3e30e14ef1deefede0e2181b4"
     },
     {
-      "name": "rune/1001.png",
-      "size": 76418,
-      "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
-    },
-    {
       "name": "rune/5001.png",
-      "size": 76418,
+      "size": 11174,
       "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
+      "hash": "2ac821d66547c2769cf9ec135206691829d140a9c760260c430623679fde638d"
     },
     {
       "name": "rune/5002.PNG",
-      "size": 77447,
+      "size": 10636,
       "type": ".PNG",
-      "hash": "0473ca68c188856b91def575ae964dcb56ff1cbbd57f3facbca937079523f214"
+      "hash": "8210c975207d21654a58f6ed827e38569762fad304c74d4103c701ff98ad3e54"
     },
     {
       "name": "rune/5003.png",
-      "size": 76205,
+      "size": 11189,
       "type": ".png",
-      "hash": "313bfaf77605a78b5464c1df145f372ab07e7491aa5a23258d5dea2259912857"
+      "hash": "7201943914ef1daea02217b7b547f987a696088e3cdcb5e820e302932e009a96"
     },
     {
       "name": "rune/5004.png",
-      "size": 76112,
+      "size": 11330,
       "type": ".png",
-      "hash": "f86029b126a5bc3b02ec1ddcb9b254dc8c94887defb97a118550a9af7d61e7ae"
+      "hash": "4a0a0212894547b44ffaf0db2993caded4ce4b92fd5ed6cf7aa0d96513edf236"
     },
     {
       "name": "rune/5005.png",
-      "size": 76418,
+      "size": 11174,
       "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
+      "hash": "2ac821d66547c2769cf9ec135206691829d140a9c760260c430623679fde638d"
     },
     {
       "name": "rune/5006.png",
-      "size": 77447,
+      "size": 11174,
       "type": ".png",
-      "hash": "0473ca68c188856b91def575ae964dcb56ff1cbbd57f3facbca937079523f214"
+      "hash": "1722b7ec3dbed734ef9815d9858b866f71645dbb094f55bacaaa2e9ac2db2703"
     },
     {
       "name": "rune/5007.png",
-      "size": 76205,
+      "size": 11189,
       "type": ".png",
-      "hash": "313bfaf77605a78b5464c1df145f372ab07e7491aa5a23258d5dea2259912857"
+      "hash": "7201943914ef1daea02217b7b547f987a696088e3cdcb5e820e302932e009a96"
     },
     {
       "name": "rune/5008.png",
-      "size": 76112,
+      "size": 11330,
       "type": ".png",
-      "hash": "f86029b126a5bc3b02ec1ddcb9b254dc8c94887defb97a118550a9af7d61e7ae"
+      "hash": "4a0a0212894547b44ffaf0db2993caded4ce4b92fd5ed6cf7aa0d96513edf236"
     },
     {
       "name": "rune/5009.png",
-      "size": 76418,
+      "size": 11174,
       "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
+      "hash": "2ac821d66547c2769cf9ec135206691829d140a9c760260c430623679fde638d"
     },
     {
       "name": "rune/5010.png",
-      "size": 77447,
+      "size": 11174,
       "type": ".png",
-      "hash": "0473ca68c188856b91def575ae964dcb56ff1cbbd57f3facbca937079523f214"
+      "hash": "1722b7ec3dbed734ef9815d9858b866f71645dbb094f55bacaaa2e9ac2db2703"
     },
     {
       "name": "rune/5011.png",
-      "size": 76205,
+      "size": 11189,
       "type": ".png",
-      "hash": "313bfaf77605a78b5464c1df145f372ab07e7491aa5a23258d5dea2259912857"
+      "hash": "7201943914ef1daea02217b7b547f987a696088e3cdcb5e820e302932e009a96"
     },
     {
       "name": "rune/5012.png",
-      "size": 76112,
+      "size": 11330,
       "type": ".png",
-      "hash": "f86029b126a5bc3b02ec1ddcb9b254dc8c94887defb97a118550a9af7d61e7ae"
+      "hash": "4a0a0212894547b44ffaf0db2993caded4ce4b92fd5ed6cf7aa0d96513edf236"
     },
     {
       "name": "rune/5013.png",
-      "size": 76418,
+      "size": 11174,
       "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
+      "hash": "2ac821d66547c2769cf9ec135206691829d140a9c760260c430623679fde638d"
     },
     {
       "name": "rune/5014.png",
-      "size": 77447,
+      "size": 11174,
       "type": ".png",
-      "hash": "0473ca68c188856b91def575ae964dcb56ff1cbbd57f3facbca937079523f214"
+      "hash": "1722b7ec3dbed734ef9815d9858b866f71645dbb094f55bacaaa2e9ac2db2703"
     },
     {
       "name": "rune/5015.png",
-      "size": 76205,
+      "size": 11189,
       "type": ".png",
-      "hash": "313bfaf77605a78b5464c1df145f372ab07e7491aa5a23258d5dea2259912857"
+      "hash": "7201943914ef1daea02217b7b547f987a696088e3cdcb5e820e302932e009a96"
     },
     {
       "name": "rune/5016.png",
-      "size": 76112,
+      "size": 11330,
       "type": ".png",
-      "hash": "f86029b126a5bc3b02ec1ddcb9b254dc8c94887defb97a118550a9af7d61e7ae"
+      "hash": "4a0a0212894547b44ffaf0db2993caded4ce4b92fd5ed6cf7aa0d96513edf236"
     },
     {
       "name": "rune/5017.png",
-      "size": 76418,
+      "size": 11174,
       "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
+      "hash": "2ac821d66547c2769cf9ec135206691829d140a9c760260c430623679fde638d"
     },
     {
       "name": "rune/5018.png",
-      "size": 77447,
+      "size": 11174,
       "type": ".png",
-      "hash": "0473ca68c188856b91def575ae964dcb56ff1cbbd57f3facbca937079523f214"
+      "hash": "1722b7ec3dbed734ef9815d9858b866f71645dbb094f55bacaaa2e9ac2db2703"
     },
     {
       "name": "rune/5019.png",
-      "size": 76205,
+      "size": 11189,
       "type": ".png",
-      "hash": "313bfaf77605a78b5464c1df145f372ab07e7491aa5a23258d5dea2259912857"
+      "hash": "7201943914ef1daea02217b7b547f987a696088e3cdcb5e820e302932e009a96"
     },
     {
       "name": "rune/5020.png",
-      "size": 70418,
+      "size": 11287,
       "type": ".png",
-      "hash": "2ce4105de9da34cbb1684027ecffbfaeb3f3cd0474860060bc9d4742a6e37f1d"
+      "hash": "6b569ec6fdeefd48b6836cdbbef818e3c3dc579f236cba098222f892c8c18890"
     },
     {
       "name": "rune/5021.png",
-      "size": 76418,
+      "size": 11174,
       "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
+      "hash": "2ac821d66547c2769cf9ec135206691829d140a9c760260c430623679fde638d"
     },
     {
       "name": "rune/5022.png",
-      "size": 77447,
+      "size": 11174,
       "type": ".png",
-      "hash": "0473ca68c188856b91def575ae964dcb56ff1cbbd57f3facbca937079523f214"
+      "hash": "1722b7ec3dbed734ef9815d9858b866f71645dbb094f55bacaaa2e9ac2db2703"
     },
     {
       "name": "rune/5023.png",
-      "size": 76205,
+      "size": 11189,
       "type": ".png",
-      "hash": "313bfaf77605a78b5464c1df145f372ab07e7491aa5a23258d5dea2259912857"
+      "hash": "7201943914ef1daea02217b7b547f987a696088e3cdcb5e820e302932e009a96"
     },
     {
       "name": "rune/5024.png",
-      "size": 76112,
+      "size": 11330,
       "type": ".png",
-      "hash": "f86029b126a5bc3b02ec1ddcb9b254dc8c94887defb97a118550a9af7d61e7ae"
+      "hash": "4a0a0212894547b44ffaf0db2993caded4ce4b92fd5ed6cf7aa0d96513edf236"
     },
     {
       "name": "rune/5025.png",
-      "size": 76418,
+      "size": 11174,
       "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
+      "hash": "2ac821d66547c2769cf9ec135206691829d140a9c760260c430623679fde638d"
     },
     {
       "name": "rune/5026.png",
-      "size": 77447,
+      "size": 11174,
       "type": ".png",
-      "hash": "0473ca68c188856b91def575ae964dcb56ff1cbbd57f3facbca937079523f214"
+      "hash": "1722b7ec3dbed734ef9815d9858b866f71645dbb094f55bacaaa2e9ac2db2703"
     },
     {
       "name": "rune/5027.png",
-      "size": 76205,
+      "size": 11189,
       "type": ".png",
-      "hash": "313bfaf77605a78b5464c1df145f372ab07e7491aa5a23258d5dea2259912857"
+      "hash": "7201943914ef1daea02217b7b547f987a696088e3cdcb5e820e302932e009a96"
     },
     {
       "name": "rune/5028.png",
-      "size": 76112,
+      "size": 11330,
       "type": ".png",
-      "hash": "f86029b126a5bc3b02ec1ddcb9b254dc8c94887defb97a118550a9af7d61e7ae"
+      "hash": "4a0a0212894547b44ffaf0db2993caded4ce4b92fd5ed6cf7aa0d96513edf236"
     },
     {
       "name": "rune/5029.png",
-      "size": 76418,
+      "size": 11174,
       "type": ".png",
-      "hash": "da47a7f2efb1eac5191c600e102aac93e4c69c0a32deb2b09781498beaba2863"
+      "hash": "2ac821d66547c2769cf9ec135206691829d140a9c760260c430623679fde638d"
     },
     {
       "name": "rune/5030.png",
-      "size": 77447,
+      "size": 11174,
       "type": ".png",
-      "hash": "0473ca68c188856b91def575ae964dcb56ff1cbbd57f3facbca937079523f214"
+      "hash": "1722b7ec3dbed734ef9815d9858b866f71645dbb094f55bacaaa2e9ac2db2703"
     },
     {
       "name": "rune/5031.png",
-      "size": 67239,
+      "size": 11087,
       "type": ".png",
-      "hash": "f04f084cd605e4b923aa6edf4e71f42789f5bced0de723426db269156ccff9bb"
+      "hash": "2af56a9d2ef8f8d3573638f68076d00dee79cc0cae84adefa89339f8ed6ce254"
     },
     {
       "name": "rune/5032.png",
-      "size": 71581,
+      "size": 11111,
       "type": ".png",
-      "hash": "8b1f5f09606690f553182e76caa1184e3040de3416a6625ce88cc77427f560d9"
+      "hash": "cd604a3d0279aa9c2b8103e62749c3743b6a57f1dff67d08844583ed4218a5e0"
     },
     {
       "name": "rune/5033.png",
-      "size": 75876,
+      "size": 11866,
       "type": ".png",
-      "hash": "6b31a204ccd55094169290a748c812e648cd015689d971e275aaba5ba5475115"
+      "hash": "383bfde49e038a86872647c49f62b079bdd2eebc560b47c3798acec845f4b5c4"
     },
     {
       "name": "rune/5034.png",
-      "size": 70418,
+      "size": 11287,
       "type": ".png",
-      "hash": "2ce4105de9da34cbb1684027ecffbfaeb3f3cd0474860060bc9d4742a6e37f1d"
+      "hash": "6b569ec6fdeefd48b6836cdbbef818e3c3dc579f236cba098222f892c8c18890"
     },
     {
       "name": "rune/5035.png",
-      "size": 67239,
+      "size": 11087,
       "type": ".png",
-      "hash": "f04f084cd605e4b923aa6edf4e71f42789f5bced0de723426db269156ccff9bb"
+      "hash": "2af56a9d2ef8f8d3573638f68076d00dee79cc0cae84adefa89339f8ed6ce254"
     },
     {
       "name": "rune/5036.png",
-      "size": 71581,
+      "size": 11111,
       "type": ".png",
-      "hash": "8b1f5f09606690f553182e76caa1184e3040de3416a6625ce88cc77427f560d9"
+      "hash": "cd604a3d0279aa9c2b8103e62749c3743b6a57f1dff67d08844583ed4218a5e0"
     },
     {
       "name": "rune/5037.png",
-      "size": 75876,
+      "size": 11866,
       "type": ".png",
-      "hash": "6b31a204ccd55094169290a748c812e648cd015689d971e275aaba5ba5475115"
+      "hash": "383bfde49e038a86872647c49f62b079bdd2eebc560b47c3798acec845f4b5c4"
     },
     {
       "name": "rune/5038.png",
-      "size": 70418,
+      "size": 11287,
       "type": ".png",
-      "hash": "2ce4105de9da34cbb1684027ecffbfaeb3f3cd0474860060bc9d4742a6e37f1d"
+      "hash": "6b569ec6fdeefd48b6836cdbbef818e3c3dc579f236cba098222f892c8c18890"
     },
     {
       "name": "rune/5039.png",
-      "size": 67239,
+      "size": 11087,
       "type": ".png",
-      "hash": "f04f084cd605e4b923aa6edf4e71f42789f5bced0de723426db269156ccff9bb"
+      "hash": "2af56a9d2ef8f8d3573638f68076d00dee79cc0cae84adefa89339f8ed6ce254"
     },
     {
       "name": "rune/5040.png",
-      "size": 71581,
+      "size": 11111,
       "type": ".png",
-      "hash": "8b1f5f09606690f553182e76caa1184e3040de3416a6625ce88cc77427f560d9"
+      "hash": "cd604a3d0279aa9c2b8103e62749c3743b6a57f1dff67d08844583ed4218a5e0"
     },
     {
       "name": "rune/5041.png",
-      "size": 75876,
+      "size": 11866,
       "type": ".png",
-      "hash": "6b31a204ccd55094169290a748c812e648cd015689d971e275aaba5ba5475115"
+      "hash": "383bfde49e038a86872647c49f62b079bdd2eebc560b47c3798acec845f4b5c4"
     },
     {
       "name": "rune/5042.png",
-      "size": 70418,
+      "size": 11287,
       "type": ".png",
-      "hash": "2ce4105de9da34cbb1684027ecffbfaeb3f3cd0474860060bc9d4742a6e37f1d"
+      "hash": "6b569ec6fdeefd48b6836cdbbef818e3c3dc579f236cba098222f892c8c18890"
     },
     {
       "name": "rune/5043.png",
-      "size": 67239,
+      "size": 11087,
       "type": ".png",
-      "hash": "f04f084cd605e4b923aa6edf4e71f42789f5bced0de723426db269156ccff9bb"
+      "hash": "2af56a9d2ef8f8d3573638f68076d00dee79cc0cae84adefa89339f8ed6ce254"
     },
     {
       "name": "rune/5044.png",
-      "size": 71581,
+      "size": 11111,
       "type": ".png",
-      "hash": "8b1f5f09606690f553182e76caa1184e3040de3416a6625ce88cc77427f560d9"
+      "hash": "cd604a3d0279aa9c2b8103e62749c3743b6a57f1dff67d08844583ed4218a5e0"
     },
     {
       "name": "rune/5045.png",
-      "size": 75876,
+      "size": 11866,
       "type": ".png",
-      "hash": "6b31a204ccd55094169290a748c812e648cd015689d971e275aaba5ba5475115"
+      "hash": "383bfde49e038a86872647c49f62b079bdd2eebc560b47c3798acec845f4b5c4"
     },
     {
       "name": "rune/5046.png",
-      "size": 70418,
+      "size": 11287,
       "type": ".png",
-      "hash": "2ce4105de9da34cbb1684027ecffbfaeb3f3cd0474860060bc9d4742a6e37f1d"
+      "hash": "6b569ec6fdeefd48b6836cdbbef818e3c3dc579f236cba098222f892c8c18890"
     },
     {
       "name": "rune/5047.png",
-      "size": 67239,
+      "size": 11087,
       "type": ".png",
-      "hash": "f04f084cd605e4b923aa6edf4e71f42789f5bced0de723426db269156ccff9bb"
+      "hash": "2af56a9d2ef8f8d3573638f68076d00dee79cc0cae84adefa89339f8ed6ce254"
     },
     {
       "name": "rune/5048.png",
-      "size": 71581,
+      "size": 11111,
       "type": ".png",
-      "hash": "8b1f5f09606690f553182e76caa1184e3040de3416a6625ce88cc77427f560d9"
+      "hash": "cd604a3d0279aa9c2b8103e62749c3743b6a57f1dff67d08844583ed4218a5e0"
     },
     {
       "name": "rune/5049.png",
-      "size": 75876,
+      "size": 11866,
       "type": ".png",
-      "hash": "6b31a204ccd55094169290a748c812e648cd015689d971e275aaba5ba5475115"
+      "hash": "383bfde49e038a86872647c49f62b079bdd2eebc560b47c3798acec845f4b5c4"
     },
     {
       "name": "rune/5050.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5051.png",
-      "size": 67239,
+      "size": 11087,
       "type": ".png",
-      "hash": "f04f084cd605e4b923aa6edf4e71f42789f5bced0de723426db269156ccff9bb"
+      "hash": "2af56a9d2ef8f8d3573638f68076d00dee79cc0cae84adefa89339f8ed6ce254"
     },
     {
       "name": "rune/5052.png",
-      "size": 71581,
+      "size": 11111,
       "type": ".png",
-      "hash": "8b1f5f09606690f553182e76caa1184e3040de3416a6625ce88cc77427f560d9"
+      "hash": "cd604a3d0279aa9c2b8103e62749c3743b6a57f1dff67d08844583ed4218a5e0"
     },
     {
       "name": "rune/5053.png",
-      "size": 75876,
+      "size": 11866,
       "type": ".png",
-      "hash": "6b31a204ccd55094169290a748c812e648cd015689d971e275aaba5ba5475115"
+      "hash": "383bfde49e038a86872647c49f62b079bdd2eebc560b47c3798acec845f4b5c4"
     },
     {
       "name": "rune/5054.png",
-      "size": 70418,
+      "size": 11287,
       "type": ".png",
-      "hash": "2ce4105de9da34cbb1684027ecffbfaeb3f3cd0474860060bc9d4742a6e37f1d"
+      "hash": "6b569ec6fdeefd48b6836cdbbef818e3c3dc579f236cba098222f892c8c18890"
     },
     {
       "name": "rune/5055.png",
-      "size": 67239,
+      "size": 11087,
       "type": ".png",
-      "hash": "f04f084cd605e4b923aa6edf4e71f42789f5bced0de723426db269156ccff9bb"
+      "hash": "2af56a9d2ef8f8d3573638f68076d00dee79cc0cae84adefa89339f8ed6ce254"
     },
     {
       "name": "rune/5056.png",
-      "size": 71581,
+      "size": 11111,
       "type": ".png",
-      "hash": "8b1f5f09606690f553182e76caa1184e3040de3416a6625ce88cc77427f560d9"
+      "hash": "cd604a3d0279aa9c2b8103e62749c3743b6a57f1dff67d08844583ed4218a5e0"
     },
     {
       "name": "rune/5057.png",
-      "size": 75876,
+      "size": 11866,
       "type": ".png",
-      "hash": "6b31a204ccd55094169290a748c812e648cd015689d971e275aaba5ba5475115"
+      "hash": "383bfde49e038a86872647c49f62b079bdd2eebc560b47c3798acec845f4b5c4"
     },
     {
       "name": "rune/5058.png",
-      "size": 70418,
+      "size": 11287,
       "type": ".png",
-      "hash": "2ce4105de9da34cbb1684027ecffbfaeb3f3cd0474860060bc9d4742a6e37f1d"
+      "hash": "6b569ec6fdeefd48b6836cdbbef818e3c3dc579f236cba098222f892c8c18890"
     },
     {
       "name": "rune/5059.png",
-      "size": 67239,
+      "size": 11087,
       "type": ".png",
-      "hash": "f04f084cd605e4b923aa6edf4e71f42789f5bced0de723426db269156ccff9bb"
+      "hash": "2af56a9d2ef8f8d3573638f68076d00dee79cc0cae84adefa89339f8ed6ce254"
     },
     {
       "name": "rune/5060.png",
-      "size": 71581,
+      "size": 11111,
       "type": ".png",
-      "hash": "8b1f5f09606690f553182e76caa1184e3040de3416a6625ce88cc77427f560d9"
+      "hash": "cd604a3d0279aa9c2b8103e62749c3743b6a57f1dff67d08844583ed4218a5e0"
     },
     {
       "name": "rune/5061.png",
-      "size": 78743,
+      "size": 11332,
       "type": ".png",
-      "hash": "a9692d541d1006cced42327cf96d9e4f745bdee1b326c9b0b21367cbb8bfae00"
+      "hash": "0022b5f40da7c8064bdf13233b90c2ad71fc08da1cede1a105bedb1f2bb4cfa0"
     },
     {
       "name": "rune/5062.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5063.png",
-      "size": 80675,
+      "size": 11413,
       "type": ".png",
-      "hash": "b794ef4fadd3f171fd0aefea1f80236d65c9973aa9b688132339bdd44f2bddf9"
+      "hash": "9043a3a398a975222c476689fac450e5f9f0baf58c94f6201ebc38c40e378f33"
     },
     {
       "name": "rune/5064.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5065.png",
-      "size": 78743,
+      "size": 11332,
       "type": ".png",
-      "hash": "a9692d541d1006cced42327cf96d9e4f745bdee1b326c9b0b21367cbb8bfae00"
+      "hash": "0022b5f40da7c8064bdf13233b90c2ad71fc08da1cede1a105bedb1f2bb4cfa0"
     },
     {
       "name": "rune/5066.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5067.png",
-      "size": 80675,
+      "size": 11413,
       "type": ".png",
-      "hash": "b794ef4fadd3f171fd0aefea1f80236d65c9973aa9b688132339bdd44f2bddf9"
+      "hash": "9043a3a398a975222c476689fac450e5f9f0baf58c94f6201ebc38c40e378f33"
     },
     {
       "name": "rune/5068.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5069.png",
-      "size": 78743,
+      "size": 11332,
       "type": ".png",
-      "hash": "a9692d541d1006cced42327cf96d9e4f745bdee1b326c9b0b21367cbb8bfae00"
+      "hash": "0022b5f40da7c8064bdf13233b90c2ad71fc08da1cede1a105bedb1f2bb4cfa0"
     },
     {
       "name": "rune/5070.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5071.png",
-      "size": 80675,
+      "size": 11413,
       "type": ".png",
-      "hash": "b794ef4fadd3f171fd0aefea1f80236d65c9973aa9b688132339bdd44f2bddf9"
+      "hash": "9043a3a398a975222c476689fac450e5f9f0baf58c94f6201ebc38c40e378f33"
     },
     {
       "name": "rune/5072.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5073.png",
-      "size": 78743,
+      "size": 11332,
       "type": ".png",
-      "hash": "a9692d541d1006cced42327cf96d9e4f745bdee1b326c9b0b21367cbb8bfae00"
+      "hash": "0022b5f40da7c8064bdf13233b90c2ad71fc08da1cede1a105bedb1f2bb4cfa0"
     },
     {
       "name": "rune/5074.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5075.png",
-      "size": 80675,
+      "size": 11413,
       "type": ".png",
-      "hash": "b794ef4fadd3f171fd0aefea1f80236d65c9973aa9b688132339bdd44f2bddf9"
+      "hash": "9043a3a398a975222c476689fac450e5f9f0baf58c94f6201ebc38c40e378f33"
     },
     {
       "name": "rune/5076.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5077.png",
-      "size": 78743,
+      "size": 11332,
       "type": ".png",
-      "hash": "a9692d541d1006cced42327cf96d9e4f745bdee1b326c9b0b21367cbb8bfae00"
+      "hash": "0022b5f40da7c8064bdf13233b90c2ad71fc08da1cede1a105bedb1f2bb4cfa0"
     },
     {
       "name": "rune/5078.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5079.png",
-      "size": 80675,
+      "size": 11413,
       "type": ".png",
-      "hash": "b794ef4fadd3f171fd0aefea1f80236d65c9973aa9b688132339bdd44f2bddf9"
+      "hash": "9043a3a398a975222c476689fac450e5f9f0baf58c94f6201ebc38c40e378f33"
     },
     {
       "name": "rune/5080.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5081.png",
-      "size": 78743,
+      "size": 11332,
       "type": ".png",
-      "hash": "a9692d541d1006cced42327cf96d9e4f745bdee1b326c9b0b21367cbb8bfae00"
+      "hash": "0022b5f40da7c8064bdf13233b90c2ad71fc08da1cede1a105bedb1f2bb4cfa0"
     },
     {
       "name": "rune/5082.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5083.png",
-      "size": 80675,
+      "size": 11413,
       "type": ".png",
-      "hash": "b794ef4fadd3f171fd0aefea1f80236d65c9973aa9b688132339bdd44f2bddf9"
+      "hash": "9043a3a398a975222c476689fac450e5f9f0baf58c94f6201ebc38c40e378f33"
     },
     {
       "name": "rune/5084.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5085.png",
-      "size": 78743,
+      "size": 11332,
       "type": ".png",
-      "hash": "a9692d541d1006cced42327cf96d9e4f745bdee1b326c9b0b21367cbb8bfae00"
+      "hash": "0022b5f40da7c8064bdf13233b90c2ad71fc08da1cede1a105bedb1f2bb4cfa0"
     },
     {
       "name": "rune/5086.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5087.png",
-      "size": 80675,
+      "size": 11413,
       "type": ".png",
-      "hash": "b794ef4fadd3f171fd0aefea1f80236d65c9973aa9b688132339bdd44f2bddf9"
+      "hash": "9043a3a398a975222c476689fac450e5f9f0baf58c94f6201ebc38c40e378f33"
     },
     {
       "name": "rune/5088.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5089.png",
-      "size": 78743,
+      "size": 11332,
       "type": ".png",
-      "hash": "a9692d541d1006cced42327cf96d9e4f745bdee1b326c9b0b21367cbb8bfae00"
+      "hash": "0022b5f40da7c8064bdf13233b90c2ad71fc08da1cede1a105bedb1f2bb4cfa0"
     },
     {
       "name": "rune/5090.png",
-      "size": 85907,
+      "size": 11702,
       "type": ".png",
-      "hash": "aed847497ad10cf27bb106c6cb902c2bdab8bce19f2f6189572ffe791302d65e"
+      "hash": "bb9e91ad77890a13f3a78ff5c73204ed287418acd361def5ba5c1e7f719b87d6"
     },
     {
       "name": "rune/5091.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5092.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5093.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5094.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5095.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5096.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5097.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5098.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5099.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5100.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5101.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5102.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5103.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5104.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5105.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5106.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5107.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5108.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5109.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5110.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5111.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5112.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5113.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5114.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5115.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5116.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5117.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5118.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5119.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5120.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5121.png",
-      "size": 154757,
+      "size": 12724,
       "type": ".png",
-      "hash": "c461afea15f5d0e65a004fd05de64233ef9cc40173c3d1356de39c8825f3f5b7"
+      "hash": "ac2005fb80483a2d0135630cdcdc86830ce6d13231d56fc16bef0c0de9524c9a"
     },
     {
       "name": "rune/5122.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5123.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5124.png",
-      "size": 78475,
+      "size": 11650,
       "type": ".png",
-      "hash": "967238d68bc96c2ebbb7233d430870e1992c7942bc3186ba5bdfd9392ac52a5b"
+      "hash": "02da18d5aa38b3943f713ecfaadb726eb33c6d487a850a1f722cbf6570412262"
     },
     {
       "name": "rune/5125.png",
-      "size": 77367,
+      "size": 11656,
       "type": ".png",
-      "hash": "8e3441c806f93ed2e6865d2eac4674de29ca3b1257a98e95c73e8bdd294aaff1"
+      "hash": "1574a0208785984084f5707d7f2a5058f43386d31b24d0d03a2ea1c989bc8b6e"
     },
     {
       "name": "rune/5126.png",
-      "size": 76863,
+      "size": 11738,
       "type": ".png",
-      "hash": "aeace1c24f55ac2a7c19d3e4a30250148ebe5de023903d4695ba354a1830630b"
+      "hash": "2fd1b330029e296d50ab4fd8288e18948e4c9ea2364683e88ec999c6c93bd7eb"
     },
     {
       "name": "rune/5127.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5128.png",
-      "size": 78475,
+      "size": 11650,
       "type": ".png",
-      "hash": "967238d68bc96c2ebbb7233d430870e1992c7942bc3186ba5bdfd9392ac52a5b"
+      "hash": "02da18d5aa38b3943f713ecfaadb726eb33c6d487a850a1f722cbf6570412262"
     },
     {
       "name": "rune/5129.png",
-      "size": 77367,
+      "size": 11656,
       "type": ".png",
-      "hash": "8e3441c806f93ed2e6865d2eac4674de29ca3b1257a98e95c73e8bdd294aaff1"
+      "hash": "1574a0208785984084f5707d7f2a5058f43386d31b24d0d03a2ea1c989bc8b6e"
     },
     {
       "name": "rune/5130.png",
-      "size": 76863,
+      "size": 11738,
       "type": ".png",
-      "hash": "aeace1c24f55ac2a7c19d3e4a30250148ebe5de023903d4695ba354a1830630b"
+      "hash": "2fd1b330029e296d50ab4fd8288e18948e4c9ea2364683e88ec999c6c93bd7eb"
     },
     {
       "name": "rune/5131.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5132.png",
-      "size": 78475,
+      "size": 11650,
       "type": ".png",
-      "hash": "967238d68bc96c2ebbb7233d430870e1992c7942bc3186ba5bdfd9392ac52a5b"
+      "hash": "02da18d5aa38b3943f713ecfaadb726eb33c6d487a850a1f722cbf6570412262"
     },
     {
       "name": "rune/5133.png",
-      "size": 77367,
+      "size": 11656,
       "type": ".png",
-      "hash": "8e3441c806f93ed2e6865d2eac4674de29ca3b1257a98e95c73e8bdd294aaff1"
+      "hash": "1574a0208785984084f5707d7f2a5058f43386d31b24d0d03a2ea1c989bc8b6e"
     },
     {
       "name": "rune/5134.png",
-      "size": 76863,
+      "size": 11738,
       "type": ".png",
-      "hash": "aeace1c24f55ac2a7c19d3e4a30250148ebe5de023903d4695ba354a1830630b"
+      "hash": "2fd1b330029e296d50ab4fd8288e18948e4c9ea2364683e88ec999c6c93bd7eb"
     },
     {
       "name": "rune/5135.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5136.png",
-      "size": 78475,
+      "size": 11650,
       "type": ".png",
-      "hash": "967238d68bc96c2ebbb7233d430870e1992c7942bc3186ba5bdfd9392ac52a5b"
+      "hash": "02da18d5aa38b3943f713ecfaadb726eb33c6d487a850a1f722cbf6570412262"
     },
     {
       "name": "rune/5137.png",
-      "size": 77367,
+      "size": 11656,
       "type": ".png",
-      "hash": "8e3441c806f93ed2e6865d2eac4674de29ca3b1257a98e95c73e8bdd294aaff1"
+      "hash": "1574a0208785984084f5707d7f2a5058f43386d31b24d0d03a2ea1c989bc8b6e"
     },
     {
       "name": "rune/5138.png",
-      "size": 76863,
+      "size": 11738,
       "type": ".png",
-      "hash": "aeace1c24f55ac2a7c19d3e4a30250148ebe5de023903d4695ba354a1830630b"
+      "hash": "2fd1b330029e296d50ab4fd8288e18948e4c9ea2364683e88ec999c6c93bd7eb"
     },
     {
       "name": "rune/5139.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5140.png",
-      "size": 78475,
+      "size": 11650,
       "type": ".png",
-      "hash": "967238d68bc96c2ebbb7233d430870e1992c7942bc3186ba5bdfd9392ac52a5b"
+      "hash": "02da18d5aa38b3943f713ecfaadb726eb33c6d487a850a1f722cbf6570412262"
     },
     {
       "name": "rune/5141.png",
-      "size": 77367,
+      "size": 11656,
       "type": ".png",
-      "hash": "8e3441c806f93ed2e6865d2eac4674de29ca3b1257a98e95c73e8bdd294aaff1"
+      "hash": "1574a0208785984084f5707d7f2a5058f43386d31b24d0d03a2ea1c989bc8b6e"
     },
     {
       "name": "rune/5142.png",
-      "size": 78741,
+      "size": 11858,
       "type": ".png",
-      "hash": "83aedd87337ee94cfd4af80a0ceb9d3aa6507af35b0a509f11d3d1448b39ee30"
+      "hash": "eeef6fb37e1e27af9dc0a6f7d5f0240be33b02b882652a49c834c5b9990e07ae"
     },
     {
       "name": "rune/5143.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5144.png",
-      "size": 78475,
+      "size": 11650,
       "type": ".png",
-      "hash": "967238d68bc96c2ebbb7233d430870e1992c7942bc3186ba5bdfd9392ac52a5b"
+      "hash": "02da18d5aa38b3943f713ecfaadb726eb33c6d487a850a1f722cbf6570412262"
     },
     {
       "name": "rune/5145.png",
-      "size": 77367,
+      "size": 11656,
       "type": ".png",
-      "hash": "8e3441c806f93ed2e6865d2eac4674de29ca3b1257a98e95c73e8bdd294aaff1"
+      "hash": "1574a0208785984084f5707d7f2a5058f43386d31b24d0d03a2ea1c989bc8b6e"
     },
     {
       "name": "rune/5146.png",
-      "size": 76863,
+      "size": 11738,
       "type": ".png",
-      "hash": "aeace1c24f55ac2a7c19d3e4a30250148ebe5de023903d4695ba354a1830630b"
+      "hash": "2fd1b330029e296d50ab4fd8288e18948e4c9ea2364683e88ec999c6c93bd7eb"
     },
     {
       "name": "rune/5147.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5148.png",
-      "size": 78475,
+      "size": 11650,
       "type": ".png",
-      "hash": "967238d68bc96c2ebbb7233d430870e1992c7942bc3186ba5bdfd9392ac52a5b"
+      "hash": "02da18d5aa38b3943f713ecfaadb726eb33c6d487a850a1f722cbf6570412262"
     },
     {
       "name": "rune/5149.png",
-      "size": 77367,
+      "size": 11656,
       "type": ".png",
-      "hash": "8e3441c806f93ed2e6865d2eac4674de29ca3b1257a98e95c73e8bdd294aaff1"
+      "hash": "1574a0208785984084f5707d7f2a5058f43386d31b24d0d03a2ea1c989bc8b6e"
     },
     {
       "name": "rune/5150.png",
-      "size": 76863,
+      "size": 11738,
       "type": ".png",
-      "hash": "aeace1c24f55ac2a7c19d3e4a30250148ebe5de023903d4695ba354a1830630b"
+      "hash": "2fd1b330029e296d50ab4fd8288e18948e4c9ea2364683e88ec999c6c93bd7eb"
     },
     {
       "name": "rune/5151.png",
-      "size": 77007,
+      "size": 11628,
       "type": ".png",
-      "hash": "8ad43f995ad78068298a7bbb0cd2c2be5a525382adde2ca495233db53fc1d124"
+      "hash": "10fe6b0266f4def4ae9b5673de44a5422d9e1d0e52793cb4d3a200ac96d2cc0b"
     },
     {
       "name": "rune/5152.png",
-      "size": 78475,
+      "size": 11650,
       "type": ".png",
-      "hash": "967238d68bc96c2ebbb7233d430870e1992c7942bc3186ba5bdfd9392ac52a5b"
+      "hash": "02da18d5aa38b3943f713ecfaadb726eb33c6d487a850a1f722cbf6570412262"
     },
     {
       "name": "rune/5153.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5154.png",
-      "size": 75258,
+      "size": 11488,
       "type": ".png",
-      "hash": "e493d705b6ff5fa19d71ff2965c85ac5e3b77270f04bfa433e327657ff10f006"
+      "hash": "18183a15e81566e8011dd6195b18dea49eefd90c9399a149bb7b37b102d082b4"
     },
     {
       "name": "rune/5155.png",
-      "size": 78880,
+      "size": 12138,
       "type": ".png",
-      "hash": "e050ec4e367b76e6aa92ba40c472d530320965ec9c03e5eb9876afe6c0406655"
+      "hash": "6cd7d1194104402590418c7b639baf27a79b40388c39e4f0d636ba2a4c365049"
     },
     {
       "name": "rune/5156.png",
-      "size": 74077,
+      "size": 11610,
       "type": ".png",
-      "hash": "e315bc47665eb7aee365cdaa0decd70786c9c4bff0a77e77c0f984388b249c7d"
+      "hash": "ac00e955859c345f6eb216c31f7359835a94f699dc096bb9a454321e24945787"
     },
     {
       "name": "rune/5157.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5158.png",
-      "size": 75258,
+      "size": 11488,
       "type": ".png",
-      "hash": "e493d705b6ff5fa19d71ff2965c85ac5e3b77270f04bfa433e327657ff10f006"
+      "hash": "18183a15e81566e8011dd6195b18dea49eefd90c9399a149bb7b37b102d082b4"
     },
     {
       "name": "rune/5159.png",
-      "size": 78880,
+      "size": 12138,
       "type": ".png",
-      "hash": "e050ec4e367b76e6aa92ba40c472d530320965ec9c03e5eb9876afe6c0406655"
+      "hash": "6cd7d1194104402590418c7b639baf27a79b40388c39e4f0d636ba2a4c365049"
     },
     {
       "name": "rune/5160.png",
-      "size": 74077,
+      "size": 11610,
       "type": ".png",
-      "hash": "e315bc47665eb7aee365cdaa0decd70786c9c4bff0a77e77c0f984388b249c7d"
+      "hash": "ac00e955859c345f6eb216c31f7359835a94f699dc096bb9a454321e24945787"
     },
     {
       "name": "rune/5161.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5162.png",
-      "size": 75258,
+      "size": 11488,
       "type": ".png",
-      "hash": "e493d705b6ff5fa19d71ff2965c85ac5e3b77270f04bfa433e327657ff10f006"
+      "hash": "18183a15e81566e8011dd6195b18dea49eefd90c9399a149bb7b37b102d082b4"
     },
     {
       "name": "rune/5163.png",
-      "size": 78880,
+      "size": 12138,
       "type": ".png",
-      "hash": "e050ec4e367b76e6aa92ba40c472d530320965ec9c03e5eb9876afe6c0406655"
+      "hash": "6cd7d1194104402590418c7b639baf27a79b40388c39e4f0d636ba2a4c365049"
     },
     {
       "name": "rune/5164.png",
-      "size": 74077,
+      "size": 11610,
       "type": ".png",
-      "hash": "e315bc47665eb7aee365cdaa0decd70786c9c4bff0a77e77c0f984388b249c7d"
+      "hash": "ac00e955859c345f6eb216c31f7359835a94f699dc096bb9a454321e24945787"
     },
     {
       "name": "rune/5165.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5166.png",
-      "size": 75258,
+      "size": 11488,
       "type": ".png",
-      "hash": "e493d705b6ff5fa19d71ff2965c85ac5e3b77270f04bfa433e327657ff10f006"
+      "hash": "18183a15e81566e8011dd6195b18dea49eefd90c9399a149bb7b37b102d082b4"
     },
     {
       "name": "rune/5167.png",
-      "size": 78880,
+      "size": 12138,
       "type": ".png",
-      "hash": "e050ec4e367b76e6aa92ba40c472d530320965ec9c03e5eb9876afe6c0406655"
+      "hash": "6cd7d1194104402590418c7b639baf27a79b40388c39e4f0d636ba2a4c365049"
     },
     {
       "name": "rune/5168.png",
-      "size": 74077,
+      "size": 11610,
       "type": ".png",
-      "hash": "e315bc47665eb7aee365cdaa0decd70786c9c4bff0a77e77c0f984388b249c7d"
+      "hash": "ac00e955859c345f6eb216c31f7359835a94f699dc096bb9a454321e24945787"
     },
     {
       "name": "rune/5169.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5170.png",
-      "size": 75258,
+      "size": 11488,
       "type": ".png",
-      "hash": "e493d705b6ff5fa19d71ff2965c85ac5e3b77270f04bfa433e327657ff10f006"
+      "hash": "18183a15e81566e8011dd6195b18dea49eefd90c9399a149bb7b37b102d082b4"
     },
     {
       "name": "rune/5171.png",
-      "size": 78880,
+      "size": 12138,
       "type": ".png",
-      "hash": "e050ec4e367b76e6aa92ba40c472d530320965ec9c03e5eb9876afe6c0406655"
+      "hash": "6cd7d1194104402590418c7b639baf27a79b40388c39e4f0d636ba2a4c365049"
     },
     {
       "name": "rune/5172.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5173.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5174.png",
-      "size": 75258,
+      "size": 11488,
       "type": ".png",
-      "hash": "e493d705b6ff5fa19d71ff2965c85ac5e3b77270f04bfa433e327657ff10f006"
+      "hash": "18183a15e81566e8011dd6195b18dea49eefd90c9399a149bb7b37b102d082b4"
     },
     {
       "name": "rune/5175.png",
-      "size": 78880,
+      "size": 12138,
       "type": ".png",
-      "hash": "e050ec4e367b76e6aa92ba40c472d530320965ec9c03e5eb9876afe6c0406655"
+      "hash": "6cd7d1194104402590418c7b639baf27a79b40388c39e4f0d636ba2a4c365049"
     },
     {
       "name": "rune/5176.png",
-      "size": 74077,
+      "size": 11610,
       "type": ".png",
-      "hash": "e315bc47665eb7aee365cdaa0decd70786c9c4bff0a77e77c0f984388b249c7d"
+      "hash": "ac00e955859c345f6eb216c31f7359835a94f699dc096bb9a454321e24945787"
     },
     {
       "name": "rune/5177.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5178.png",
-      "size": 75258,
+      "size": 11488,
       "type": ".png",
-      "hash": "e493d705b6ff5fa19d71ff2965c85ac5e3b77270f04bfa433e327657ff10f006"
+      "hash": "18183a15e81566e8011dd6195b18dea49eefd90c9399a149bb7b37b102d082b4"
     },
     {
       "name": "rune/5179.png",
-      "size": 78880,
+      "size": 12138,
       "type": ".png",
-      "hash": "e050ec4e367b76e6aa92ba40c472d530320965ec9c03e5eb9876afe6c0406655"
+      "hash": "6cd7d1194104402590418c7b639baf27a79b40388c39e4f0d636ba2a4c365049"
     },
     {
       "name": "rune/5180.png",
-      "size": 74077,
+      "size": 11610,
       "type": ".png",
-      "hash": "e315bc47665eb7aee365cdaa0decd70786c9c4bff0a77e77c0f984388b249c7d"
+      "hash": "ac00e955859c345f6eb216c31f7359835a94f699dc096bb9a454321e24945787"
     },
     {
       "name": "rune/5181.png",
-      "size": 71128,
+      "size": 11416,
       "type": ".png",
-      "hash": "bdd50b996d01a3e37ca4f72129f36fa03166426bd7e15ba423625522f851afe0"
+      "hash": "e8b5f190cf7b6421e097653e550ac32387aed606cafbc835094590d7a69dfdff"
     },
     {
       "name": "rune/5182.png",
-      "size": 75258,
+      "size": 11488,
       "type": ".png",
-      "hash": "e493d705b6ff5fa19d71ff2965c85ac5e3b77270f04bfa433e327657ff10f006"
+      "hash": "18183a15e81566e8011dd6195b18dea49eefd90c9399a149bb7b37b102d082b4"
     },
     {
       "name": "rune/5183.png",
-      "size": 76695,
+      "size": 11517,
       "type": ".png",
-      "hash": "ef3ba864762fcbe9658ff60827da0c0e9b5b23e58ab2b9fd0f7059ec379ea8e7"
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5184.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5185.png",
-      "size": 78747,
+      "size": 11610,
       "type": ".png",
-      "hash": "0406360e37e8d976e66916ff03df04d592f6d2a7382bf0a1e3fa57058375a08c"
+      "hash": "dcd7da7946bebf922541ab50871d212619bd71d515ac01692fcc345eb00557d8"
     },
     {
       "name": "rune/5186.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5187.png",
-      "size": 76695,
+      "size": 11517,
       "type": ".png",
-      "hash": "ef3ba864762fcbe9658ff60827da0c0e9b5b23e58ab2b9fd0f7059ec379ea8e7"
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5188.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5189.png",
-      "size": 78747,
+      "size": 11610,
       "type": ".png",
-      "hash": "0406360e37e8d976e66916ff03df04d592f6d2a7382bf0a1e3fa57058375a08c"
+      "hash": "dcd7da7946bebf922541ab50871d212619bd71d515ac01692fcc345eb00557d8"
     },
     {
       "name": "rune/5190.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5191.png",
-      "size": 76695,
+      "size": 11517,
       "type": ".png",
-      "hash": "ef3ba864762fcbe9658ff60827da0c0e9b5b23e58ab2b9fd0f7059ec379ea8e7"
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5192.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5193.png",
-      "size": 78747,
+      "size": 11610,
       "type": ".png",
-      "hash": "0406360e37e8d976e66916ff03df04d592f6d2a7382bf0a1e3fa57058375a08c"
+      "hash": "dcd7da7946bebf922541ab50871d212619bd71d515ac01692fcc345eb00557d8"
     },
     {
       "name": "rune/5194.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5195.png",
-      "size": 76695,
+      "size": 11517,
       "type": ".png",
-      "hash": "ef3ba864762fcbe9658ff60827da0c0e9b5b23e58ab2b9fd0f7059ec379ea8e7"
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5196.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5197.png",
-      "size": 78747,
+      "size": 11610,
       "type": ".png",
-      "hash": "0406360e37e8d976e66916ff03df04d592f6d2a7382bf0a1e3fa57058375a08c"
+      "hash": "dcd7da7946bebf922541ab50871d212619bd71d515ac01692fcc345eb00557d8"
     },
     {
       "name": "rune/5198.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5199.png",
-      "size": 76695,
+      "size": 11517,
       "type": ".png",
-      "hash": "ef3ba864762fcbe9658ff60827da0c0e9b5b23e58ab2b9fd0f7059ec379ea8e7"
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5200.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5201.png",
-      "size": 78747,
+      "size": 11610,
       "type": ".png",
-      "hash": "0406360e37e8d976e66916ff03df04d592f6d2a7382bf0a1e3fa57058375a08c"
+      "hash": "dcd7da7946bebf922541ab50871d212619bd71d515ac01692fcc345eb00557d8"
     },
     {
       "name": "rune/5202.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5203.png",
-      "size": 76695,
+      "size": 11517,
       "type": ".png",
-      "hash": "ef3ba864762fcbe9658ff60827da0c0e9b5b23e58ab2b9fd0f7059ec379ea8e7"
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5204.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5205.png",
-      "size": 78747,
+      "size": 11610,
       "type": ".png",
-      "hash": "0406360e37e8d976e66916ff03df04d592f6d2a7382bf0a1e3fa57058375a08c"
+      "hash": "dcd7da7946bebf922541ab50871d212619bd71d515ac01692fcc345eb00557d8"
     },
     {
       "name": "rune/5206.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5207.png",
-      "size": 76695,
+      "size": 11517,
       "type": ".png",
-      "hash": "ef3ba864762fcbe9658ff60827da0c0e9b5b23e58ab2b9fd0f7059ec379ea8e7"
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5208.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5209.png",
-      "size": 78747,
+      "size": 11610,
       "type": ".png",
-      "hash": "0406360e37e8d976e66916ff03df04d592f6d2a7382bf0a1e3fa57058375a08c"
+      "hash": "dcd7da7946bebf922541ab50871d212619bd71d515ac01692fcc345eb00557d8"
     },
     {
       "name": "rune/5210.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5211.png",
-      "size": 76695,
+      "size": 11517,
       "type": ".png",
-      "hash": "ef3ba864762fcbe9658ff60827da0c0e9b5b23e58ab2b9fd0f7059ec379ea8e7"
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5212.png",
-      "size": 84085,
+      "size": 11878,
       "type": ".png",
-      "hash": "d7e42e6f4abc76f6f0f0b96f867d84a147e2d8a49cc50b2dbc0bfd67719439a5"
+      "hash": "ca3d2912eb1ab9070a3cbb8afa8befe9f63573ff1fe3ea842933564753e371f9"
     },
     {
       "name": "rune/5213.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5214.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5215.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5216.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5217.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5218.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5219.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5220.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5221.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5222.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5223.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5224.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5225.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5226.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5227.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5228.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5229.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5230.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5231.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5232.png",
-      "size": 163724,
+      "size": 13501,
       "type": ".png",
-      "hash": "cfe6d53fb1333aef40d5079bd6663f85d825d7933bf541a26df3907a102fad60"
+      "hash": "0bd4524382f342169b0c710a9bfa3fae75db747319e5fceb999a9973157709da"
     },
     {
       "name": "rune/5233.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5234.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5235.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5236.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5237.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5238.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5239.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5240.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5241.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5242.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5243.png",
-      "size": 158849,
+      "size": 12684,
       "type": ".png",
-      "hash": "73a7e30168fee3982af9fa19c57e79c6628896265a1373ffbc085b64c66d455e"
+      "hash": "73419c10f6810cb1c8ae56d1dddce4e259aa1475daf815b7fcaa7d3043b0023d"
     },
     {
       "name": "rune/5244.png",
-      "size": 168424,
+      "size": 13443,
       "type": ".png",
-      "hash": "c81a33efd0c99ff052f453064310a935a75bfdb5eac34655f70781720f8d5fc6"
+      "hash": "43efdfb0fdb406e41dc8d3c906e3a256198384be009aa120f7da692be47d0928"
     },
     {
       "name": "rune/5245.png",
-      "size": 80356,
+      "size": 12687,
       "type": ".png",
-      "hash": "1c5497ed521069b27398d0490345732700f5d6c610ca8963d3315d1c385a90aa"
+      "hash": "323fc88e9c8c2afef764c72cbc1e8a96ceb8f1f1159f0feb9a38ee7cd6aba64f"
     },
     {
       "name": "rune/5246.png",
-      "size": 81126,
+      "size": 11957,
       "type": ".png",
-      "hash": "c9c9a261828ff59620e662b41cc2869e7c4056ebb56fa94dbc603bae1e0b0732"
+      "hash": "0f2ed9e71b3e590e3f6f586948ac7abda84a5ddda6252f55cc9147a75afae2dd"
     },
     {
       "name": "rune/5247.png",
-      "size": 79199,
+      "size": 11825,
       "type": ".png",
-      "hash": "35b8b2e34df3d4f4408474ec959930ec685d763c37f2096a3eda4d60f213e1e3"
+      "hash": "89c071a2f037121b7baff57dd4d1c93facbf3249ab3d5eb2dd6c0a11f532592c"
     },
     {
       "name": "rune/5248.png",
-      "size": 78741,
+      "size": 11858,
       "type": ".png",
-      "hash": "83aedd87337ee94cfd4af80a0ceb9d3aa6507af35b0a509f11d3d1448b39ee30"
+      "hash": "eeef6fb37e1e27af9dc0a6f7d5f0240be33b02b882652a49c834c5b9990e07ae"
     },
     {
       "name": "rune/5249.png",
-      "size": 80356,
+      "size": 12017,
       "type": ".png",
-      "hash": "1c5497ed521069b27398d0490345732700f5d6c610ca8963d3315d1c385a90aa"
+      "hash": "f13a3d6b4c1c6424c3554e565c22a73018bf95c2433bba0ac76c418ddc1327ab"
     },
     {
       "name": "rune/5250.png",
-      "size": 81126,
+      "size": 11957,
       "type": ".png",
-      "hash": "c9c9a261828ff59620e662b41cc2869e7c4056ebb56fa94dbc603bae1e0b0732"
+      "hash": "0f2ed9e71b3e590e3f6f586948ac7abda84a5ddda6252f55cc9147a75afae2dd"
     },
     {
       "name": "rune/5251.png",
-      "size": 79199,
+      "size": 11825,
       "type": ".png",
-      "hash": "35b8b2e34df3d4f4408474ec959930ec685d763c37f2096a3eda4d60f213e1e3"
+      "hash": "89c071a2f037121b7baff57dd4d1c93facbf3249ab3d5eb2dd6c0a11f532592c"
     },
     {
       "name": "rune/5252.png",
-      "size": 78741,
+      "size": 11858,
       "type": ".png",
-      "hash": "83aedd87337ee94cfd4af80a0ceb9d3aa6507af35b0a509f11d3d1448b39ee30"
+      "hash": "eeef6fb37e1e27af9dc0a6f7d5f0240be33b02b882652a49c834c5b9990e07ae"
     },
     {
       "name": "rune/5253.png",
-      "size": 80356,
+      "size": 12017,
       "type": ".png",
-      "hash": "1c5497ed521069b27398d0490345732700f5d6c610ca8963d3315d1c385a90aa"
+      "hash": "f13a3d6b4c1c6424c3554e565c22a73018bf95c2433bba0ac76c418ddc1327ab"
     },
     {
       "name": "rune/5254.png",
-      "size": 81126,
+      "size": 11957,
       "type": ".png",
-      "hash": "c9c9a261828ff59620e662b41cc2869e7c4056ebb56fa94dbc603bae1e0b0732"
+      "hash": "0f2ed9e71b3e590e3f6f586948ac7abda84a5ddda6252f55cc9147a75afae2dd"
     },
     {
       "name": "rune/5255.png",
-      "size": 79199,
+      "size": 11825,
       "type": ".png",
-      "hash": "35b8b2e34df3d4f4408474ec959930ec685d763c37f2096a3eda4d60f213e1e3"
+      "hash": "89c071a2f037121b7baff57dd4d1c93facbf3249ab3d5eb2dd6c0a11f532592c"
     },
     {
       "name": "rune/5256.png",
-      "size": 78741,
+      "size": 11858,
       "type": ".png",
-      "hash": "83aedd87337ee94cfd4af80a0ceb9d3aa6507af35b0a509f11d3d1448b39ee30"
+      "hash": "eeef6fb37e1e27af9dc0a6f7d5f0240be33b02b882652a49c834c5b9990e07ae"
     },
     {
       "name": "rune/5257.png",
-      "size": 80356,
+      "size": 12017,
       "type": ".png",
-      "hash": "1c5497ed521069b27398d0490345732700f5d6c610ca8963d3315d1c385a90aa"
+      "hash": "f13a3d6b4c1c6424c3554e565c22a73018bf95c2433bba0ac76c418ddc1327ab"
     },
     {
       "name": "rune/5258.png",
-      "size": 81126,
+      "size": 11957,
       "type": ".png",
-      "hash": "c9c9a261828ff59620e662b41cc2869e7c4056ebb56fa94dbc603bae1e0b0732"
+      "hash": "0f2ed9e71b3e590e3f6f586948ac7abda84a5ddda6252f55cc9147a75afae2dd"
     },
     {
       "name": "rune/5259.png",
-      "size": 79199,
+      "size": 11825,
       "type": ".png",
-      "hash": "35b8b2e34df3d4f4408474ec959930ec685d763c37f2096a3eda4d60f213e1e3"
+      "hash": "89c071a2f037121b7baff57dd4d1c93facbf3249ab3d5eb2dd6c0a11f532592c"
     },
     {
       "name": "rune/5260.png",
-      "size": 78741,
+      "size": 11858,
       "type": ".png",
-      "hash": "83aedd87337ee94cfd4af80a0ceb9d3aa6507af35b0a509f11d3d1448b39ee30"
+      "hash": "eeef6fb37e1e27af9dc0a6f7d5f0240be33b02b882652a49c834c5b9990e07ae"
     },
     {
       "name": "rune/5261.png",
-      "size": 80356,
+      "size": 12017,
       "type": ".png",
-      "hash": "1c5497ed521069b27398d0490345732700f5d6c610ca8963d3315d1c385a90aa"
+      "hash": "f13a3d6b4c1c6424c3554e565c22a73018bf95c2433bba0ac76c418ddc1327ab"
     },
     {
       "name": "rune/5262.png",
-      "size": 81126,
+      "size": 11957,
       "type": ".png",
-      "hash": "c9c9a261828ff59620e662b41cc2869e7c4056ebb56fa94dbc603bae1e0b0732"
+      "hash": "0f2ed9e71b3e590e3f6f586948ac7abda84a5ddda6252f55cc9147a75afae2dd"
     },
     {
       "name": "rune/5263.png",
-      "size": 79199,
+      "size": 11825,
       "type": ".png",
-      "hash": "35b8b2e34df3d4f4408474ec959930ec685d763c37f2096a3eda4d60f213e1e3"
+      "hash": "89c071a2f037121b7baff57dd4d1c93facbf3249ab3d5eb2dd6c0a11f532592c"
     },
     {
       "name": "rune/5265.png",
-      "size": 80356,
+      "size": 12017,
       "type": ".png",
-      "hash": "1c5497ed521069b27398d0490345732700f5d6c610ca8963d3315d1c385a90aa"
+      "hash": "f13a3d6b4c1c6424c3554e565c22a73018bf95c2433bba0ac76c418ddc1327ab"
     },
     {
       "name": "rune/5266.png",
-      "size": 81126,
+      "size": 11957,
       "type": ".png",
-      "hash": "c9c9a261828ff59620e662b41cc2869e7c4056ebb56fa94dbc603bae1e0b0732"
+      "hash": "0f2ed9e71b3e590e3f6f586948ac7abda84a5ddda6252f55cc9147a75afae2dd"
     },
     {
       "name": "rune/5267.png",
-      "size": 79199,
+      "size": 11825,
       "type": ".png",
-      "hash": "35b8b2e34df3d4f4408474ec959930ec685d763c37f2096a3eda4d60f213e1e3"
+      "hash": "89c071a2f037121b7baff57dd4d1c93facbf3249ab3d5eb2dd6c0a11f532592c"
     },
     {
       "name": "rune/5268.png",
-      "size": 78741,
+      "size": 11858,
       "type": ".png",
-      "hash": "83aedd87337ee94cfd4af80a0ceb9d3aa6507af35b0a509f11d3d1448b39ee30"
+      "hash": "eeef6fb37e1e27af9dc0a6f7d5f0240be33b02b882652a49c834c5b9990e07ae"
     },
     {
       "name": "rune/5269.png",
-      "size": 80356,
+      "size": 12017,
       "type": ".png",
-      "hash": "1c5497ed521069b27398d0490345732700f5d6c610ca8963d3315d1c385a90aa"
+      "hash": "f13a3d6b4c1c6424c3554e565c22a73018bf95c2433bba0ac76c418ddc1327ab"
     },
     {
       "name": "rune/5270.png",
-      "size": 81126,
+      "size": 11957,
       "type": ".png",
-      "hash": "c9c9a261828ff59620e662b41cc2869e7c4056ebb56fa94dbc603bae1e0b0732"
+      "hash": "0f2ed9e71b3e590e3f6f586948ac7abda84a5ddda6252f55cc9147a75afae2dd"
     },
     {
       "name": "rune/5271.png",
-      "size": 79199,
+      "size": 11825,
       "type": ".png",
-      "hash": "35b8b2e34df3d4f4408474ec959930ec685d763c37f2096a3eda4d60f213e1e3"
+      "hash": "89c071a2f037121b7baff57dd4d1c93facbf3249ab3d5eb2dd6c0a11f532592c"
     },
     {
       "name": "rune/5272.png",
-      "size": 78741,
+      "size": 11858,
       "type": ".png",
-      "hash": "83aedd87337ee94cfd4af80a0ceb9d3aa6507af35b0a509f11d3d1448b39ee30"
+      "hash": "eeef6fb37e1e27af9dc0a6f7d5f0240be33b02b882652a49c834c5b9990e07ae"
     },
     {
       "name": "rune/5273.png",
-      "size": 80356,
+      "size": 12017,
       "type": ".png",
-      "hash": "1c5497ed521069b27398d0490345732700f5d6c610ca8963d3315d1c385a90aa"
+      "hash": "f13a3d6b4c1c6424c3554e565c22a73018bf95c2433bba0ac76c418ddc1327ab"
     },
     {
       "name": "rune/5274.png",
-      "size": 81126,
+      "size": 11957,
       "type": ".png",
-      "hash": "c9c9a261828ff59620e662b41cc2869e7c4056ebb56fa94dbc603bae1e0b0732"
+      "hash": "0f2ed9e71b3e590e3f6f586948ac7abda84a5ddda6252f55cc9147a75afae2dd"
     },
     {
       "name": "rune/5275.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5276.png",
-      "size": 79930,
+      "size": 11867,
       "type": ".png",
-      "hash": "d5a8070c6b4da007e219b763c3d7a0f87ed9d984ee9f36dc9b5abeb2d8c93ca9"
+      "hash": "640910c80e0d8346fdac4a0af1ffa8a4d64340ecb9ddb3fd9a117e1ca2846106"
     },
     {
       "name": "rune/5277.png",
-      "size": 81839,
+      "size": 12158,
       "type": ".png",
-      "hash": "b5401db08529cc8f47221d8f1119fee11b25418b12020d42242d85ed5052ff5d"
+      "hash": "69ff1fd082f676a88b692aab14f08f5096b6fb2eda65a583e9fc61f43f982b03"
     },
     {
       "name": "rune/5278.png",
-      "size": 77895,
+      "size": 11877,
       "type": ".png",
-      "hash": "2a4b6e18bb81e93ddde458dc5254b636976455778874787105c41b4c81c00f72"
+      "hash": "414733fd830db660da74a07a46a9cea46fd607d5c6cc1990f0b552c8e5136597"
     },
     {
       "name": "rune/5279.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5280.png",
-      "size": 79930,
+      "size": 11867,
       "type": ".png",
-      "hash": "d5a8070c6b4da007e219b763c3d7a0f87ed9d984ee9f36dc9b5abeb2d8c93ca9"
+      "hash": "640910c80e0d8346fdac4a0af1ffa8a4d64340ecb9ddb3fd9a117e1ca2846106"
     },
     {
       "name": "rune/5281.png",
-      "size": 81839,
+      "size": 12158,
       "type": ".png",
-      "hash": "b5401db08529cc8f47221d8f1119fee11b25418b12020d42242d85ed5052ff5d"
+      "hash": "69ff1fd082f676a88b692aab14f08f5096b6fb2eda65a583e9fc61f43f982b03"
     },
     {
       "name": "rune/5282.png",
-      "size": 77895,
+      "size": 11877,
       "type": ".png",
-      "hash": "2a4b6e18bb81e93ddde458dc5254b636976455778874787105c41b4c81c00f72"
+      "hash": "414733fd830db660da74a07a46a9cea46fd607d5c6cc1990f0b552c8e5136597"
     },
     {
       "name": "rune/5283.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5284.png",
-      "size": 79930,
+      "size": 11867,
       "type": ".png",
-      "hash": "d5a8070c6b4da007e219b763c3d7a0f87ed9d984ee9f36dc9b5abeb2d8c93ca9"
+      "hash": "640910c80e0d8346fdac4a0af1ffa8a4d64340ecb9ddb3fd9a117e1ca2846106"
     },
     {
       "name": "rune/5285.png",
-      "size": 81839,
+      "size": 12158,
       "type": ".png",
-      "hash": "b5401db08529cc8f47221d8f1119fee11b25418b12020d42242d85ed5052ff5d"
+      "hash": "69ff1fd082f676a88b692aab14f08f5096b6fb2eda65a583e9fc61f43f982b03"
     },
     {
       "name": "rune/5286.png",
-      "size": 77895,
+      "size": 11877,
       "type": ".png",
-      "hash": "2a4b6e18bb81e93ddde458dc5254b636976455778874787105c41b4c81c00f72"
+      "hash": "414733fd830db660da74a07a46a9cea46fd607d5c6cc1990f0b552c8e5136597"
     },
     {
       "name": "rune/5287.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5288.png",
-      "size": 79930,
+      "size": 11867,
       "type": ".png",
-      "hash": "d5a8070c6b4da007e219b763c3d7a0f87ed9d984ee9f36dc9b5abeb2d8c93ca9"
+      "hash": "640910c80e0d8346fdac4a0af1ffa8a4d64340ecb9ddb3fd9a117e1ca2846106"
     },
     {
       "name": "rune/5289.png",
-      "size": 81839,
+      "size": 12158,
       "type": ".png",
-      "hash": "b5401db08529cc8f47221d8f1119fee11b25418b12020d42242d85ed5052ff5d"
+      "hash": "69ff1fd082f676a88b692aab14f08f5096b6fb2eda65a583e9fc61f43f982b03"
     },
     {
       "name": "rune/5290.png",
-      "size": 77895,
+      "size": 11877,
       "type": ".png",
-      "hash": "2a4b6e18bb81e93ddde458dc5254b636976455778874787105c41b4c81c00f72"
+      "hash": "414733fd830db660da74a07a46a9cea46fd607d5c6cc1990f0b552c8e5136597"
     },
     {
       "name": "rune/5291.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5292.png",
-      "size": 79930,
+      "size": 11867,
       "type": ".png",
-      "hash": "d5a8070c6b4da007e219b763c3d7a0f87ed9d984ee9f36dc9b5abeb2d8c93ca9"
+      "hash": "640910c80e0d8346fdac4a0af1ffa8a4d64340ecb9ddb3fd9a117e1ca2846106"
     },
     {
       "name": "rune/5293.png",
-      "size": 81839,
+      "size": 12158,
       "type": ".png",
-      "hash": "b5401db08529cc8f47221d8f1119fee11b25418b12020d42242d85ed5052ff5d"
+      "hash": "69ff1fd082f676a88b692aab14f08f5096b6fb2eda65a583e9fc61f43f982b03"
+    },
+    {
+      "name": "rune/5294.png",
+      "size": 11684,
+      "type": ".png",
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5295.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5296.png",
-      "size": 79930,
+      "size": 11867,
       "type": ".png",
-      "hash": "d5a8070c6b4da007e219b763c3d7a0f87ed9d984ee9f36dc9b5abeb2d8c93ca9"
+      "hash": "640910c80e0d8346fdac4a0af1ffa8a4d64340ecb9ddb3fd9a117e1ca2846106"
     },
     {
       "name": "rune/5297.png",
-      "size": 81839,
+      "size": 12158,
       "type": ".png",
-      "hash": "b5401db08529cc8f47221d8f1119fee11b25418b12020d42242d85ed5052ff5d"
+      "hash": "69ff1fd082f676a88b692aab14f08f5096b6fb2eda65a583e9fc61f43f982b03"
     },
     {
       "name": "rune/5298.png",
-      "size": 77895,
+      "size": 11877,
       "type": ".png",
-      "hash": "2a4b6e18bb81e93ddde458dc5254b636976455778874787105c41b4c81c00f72"
+      "hash": "414733fd830db660da74a07a46a9cea46fd607d5c6cc1990f0b552c8e5136597"
     },
     {
       "name": "rune/5299.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5300.png",
-      "size": 79930,
+      "size": 11867,
       "type": ".png",
-      "hash": "d5a8070c6b4da007e219b763c3d7a0f87ed9d984ee9f36dc9b5abeb2d8c93ca9"
+      "hash": "640910c80e0d8346fdac4a0af1ffa8a4d64340ecb9ddb3fd9a117e1ca2846106"
     },
     {
       "name": "rune/5301.png",
-      "size": 81839,
+      "size": 12158,
       "type": ".png",
-      "hash": "b5401db08529cc8f47221d8f1119fee11b25418b12020d42242d85ed5052ff5d"
+      "hash": "69ff1fd082f676a88b692aab14f08f5096b6fb2eda65a583e9fc61f43f982b03"
     },
     {
       "name": "rune/5302.png",
-      "size": 77895,
+      "size": 11877,
       "type": ".png",
-      "hash": "2a4b6e18bb81e93ddde458dc5254b636976455778874787105c41b4c81c00f72"
+      "hash": "414733fd830db660da74a07a46a9cea46fd607d5c6cc1990f0b552c8e5136597"
     },
     {
       "name": "rune/5303.png",
-      "size": 74334,
+      "size": 11684,
       "type": ".png",
-      "hash": "cfe27c157abb9fdb080bddec68884c590cce783de54675a8cdc0914008eec9ea"
+      "hash": "6504c519ceef217265b846b574ef2dce45eea9c6f3bad26e22db2a53452f5ef4"
     },
     {
       "name": "rune/5304.png",
-      "size": 79930,
+      "size": 11867,
       "type": ".png",
-      "hash": "d5a8070c6b4da007e219b763c3d7a0f87ed9d984ee9f36dc9b5abeb2d8c93ca9"
+      "hash": "640910c80e0d8346fdac4a0af1ffa8a4d64340ecb9ddb3fd9a117e1ca2846106"
     },
     {
       "name": "rune/5305.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5306.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5307.png",
-      "size": 81044,
+      "size": 11729,
       "type": ".png",
-      "hash": "b5191ee6cb712bb05ffaf8badba623bea76236050daa3ab6398e5e2c13f58e89"
+      "hash": "bd36c5302f3cbba513698f0f6566b29d270071210fd11f83d38d7099ffd9c7d5"
     },
     {
       "name": "rune/5308.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5309.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5310.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5311.png",
-      "size": 81044,
+      "size": 11729,
       "type": ".png",
-      "hash": "b5191ee6cb712bb05ffaf8badba623bea76236050daa3ab6398e5e2c13f58e89"
+      "hash": "bd36c5302f3cbba513698f0f6566b29d270071210fd11f83d38d7099ffd9c7d5"
     },
     {
       "name": "rune/5312.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5313.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5314.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5315.png",
-      "size": 81044,
+      "size": 11729,
       "type": ".png",
-      "hash": "b5191ee6cb712bb05ffaf8badba623bea76236050daa3ab6398e5e2c13f58e89"
+      "hash": "bd36c5302f3cbba513698f0f6566b29d270071210fd11f83d38d7099ffd9c7d5"
     },
     {
       "name": "rune/5316.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5317.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5318.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5319.png",
-      "size": 81044,
+      "size": 11729,
       "type": ".png",
-      "hash": "b5191ee6cb712bb05ffaf8badba623bea76236050daa3ab6398e5e2c13f58e89"
+      "hash": "bd36c5302f3cbba513698f0f6566b29d270071210fd11f83d38d7099ffd9c7d5"
     },
     {
       "name": "rune/5320.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5321.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5322.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5323.png",
-      "size": 81044,
+      "size": 11729,
       "type": ".png",
-      "hash": "b5191ee6cb712bb05ffaf8badba623bea76236050daa3ab6398e5e2c13f58e89"
+      "hash": "bd36c5302f3cbba513698f0f6566b29d270071210fd11f83d38d7099ffd9c7d5"
+    },
+    {
+      "name": "rune/5324.png",
+      "size": 11517,
+      "type": ".png",
+      "hash": "935c4a66e5cdbed91d8868027b0c139c5b9e41671ac7694b5df2a5bfbbc08cb5"
     },
     {
       "name": "rune/5325.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5326.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5327.png",
-      "size": 81044,
+      "size": 11729,
       "type": ".png",
-      "hash": "b5191ee6cb712bb05ffaf8badba623bea76236050daa3ab6398e5e2c13f58e89"
+      "hash": "bd36c5302f3cbba513698f0f6566b29d270071210fd11f83d38d7099ffd9c7d5"
     },
     {
       "name": "rune/5328.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5329.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5330.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5331.png",
-      "size": 81044,
+      "size": 11729,
       "type": ".png",
-      "hash": "b5191ee6cb712bb05ffaf8badba623bea76236050daa3ab6398e5e2c13f58e89"
+      "hash": "bd36c5302f3cbba513698f0f6566b29d270071210fd11f83d38d7099ffd9c7d5"
     },
     {
       "name": "rune/5332.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5333.png",
-      "size": 78305,
+      "size": 11631,
       "type": ".png",
-      "hash": "920cc3f73f76549e7d0f9c40eb36199a605aca1aed090d1bed5a7e03f2313d90"
+      "hash": "d32ca22ec554001ec487a56d8427d7e383ff8b807dc77a186dce37777551a198"
     },
     {
       "name": "rune/5334.png",
-      "size": 82132,
+      "size": 11871,
       "type": ".png",
-      "hash": "05acc90c1a51f7e0d2ff246d0a0af4464ef1e136c7886c5b9b8c841d0df23e9a"
+      "hash": "6952020425f289be89dcb897fcf9f4aaf9c031251d04aad10ddfe95629628afc"
     },
     {
       "name": "rune/5335.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5336.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5337.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5338.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5339.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5340.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5341.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5342.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5343.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5344.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5345.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5346.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5347.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5348.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5349.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5350.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5351.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5352.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5353.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
+    },
+    {
+      "name": "rune/5354.png",
+      "size": 12618,
+      "type": ".png",
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5355.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5356.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5357.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5358.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5359.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5360.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5361.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5362.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5363.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5364.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5365.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5366.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/5367.png",
-      "size": 158518,
+      "size": 12618,
       "type": ".png",
-      "hash": "b9551fd6658f77d6b64f04121676a36af95bd9a3f5aca00b79892c9e370255d9"
+      "hash": "dffb68ccc1236d00f0dd506242155f24a584c40563668809349585d1b597a6b6"
     },
     {
       "name": "rune/5368.png",
-      "size": 166380,
+      "size": 13346,
       "type": ".png",
-      "hash": "00c73cf7291809c012af495b5e701285a0355ac271addacc4549784e75aab0ee"
+      "hash": "d9642ff689d266356cdbaa3314ff4252ffabc71a32ab5d759be9aac5f113405a"
     },
     {
       "name": "rune/Glyph.png",
-      "size": 11284,
+      "size": 11064,
       "type": ".png",
-      "hash": "7e8065b8a4ad34fc8cde085324c7fd26f7dbc4f29b32151a293a97913e87faf6"
+      "hash": "ef0f7db594faf34ffb3b8c6bcd28acea6a656995506a59976c7f83250bd6bc36"
     },
     {
       "name": "rune/Mark.png",
-      "size": 11669,
+      "size": 11468,
       "type": ".png",
-      "hash": "eff5f4ba53b23c0cceb57a6883511b68e138b22b822902f025b0f343ab4f8582"
+      "hash": "ee061490175df1487cf27c06ea551370d417bee5fe9422dc92b45bfcea7ddf82"
     },
     {
       "name": "rune/Quintessence.png",
-      "size": 12751,
+      "size": 12612,
       "type": ".png",
-      "hash": "237533c89200f2c8913dce874ecd2159cb63c857c42a1ebee2a061c9317c4917"
+      "hash": "d6d180770a2ababc9cfd9bf5250b7a70d24db15b6cff1f6bc0a138653b5f5d6c"
     },
     {
       "name": "rune/Seal.png",
-      "size": 11745,
+      "size": 11537,
       "type": ".png",
-      "hash": "cd5e013cb6eca78d8ade33878a7a7b15063d5260cacb336a0be7630633a3a817"
+      "hash": "dfba40eb9dcdf0cf13d2fb90026fc2700369361b3d85d89d9499c493dffdc049"
     },
     {
       "name": "rune/arrows_L1.png",
-      "size": 90368,
+      "size": 9243,
       "type": ".png",
-      "hash": "beb559f52e7a9b68ef97f221c029bb5f2eab1aad8766d42bdc8c64ed48ef42a7"
+      "hash": "31db64e98732e3c25c60f7d0f121318032fec7fa23a475e1ec5c84bea441b74d"
     },
     {
       "name": "rune/arrows_L2.png",
-      "size": 91851,
+      "size": 9514,
       "type": ".png",
-      "hash": "46da9c1cff9f453d6b43f0b4f3b7030797e2bd97f22a78a6297784ad04478b70"
+      "hash": "6745995d42343c6d00098fdcbb925ccb287c74fe9ae7b9ce460290d483f06420"
     },
     {
       "name": "rune/arrows_L3.png",
-      "size": 102471,
+      "size": 9789,
       "type": ".png",
-      "hash": "486c7ebf20e7c939911c0dc6c04f12b63fa4187c46128f3dd70927caa1e6d2f1"
+      "hash": "7ecc9ea543d1a033576681763d96e7223a8c76df5f035bfd72262c005fb7ed56"
     },
     {
       "name": "rune/candle_L1.png",
-      "size": 81765,
+      "size": 9036,
       "type": ".png",
-      "hash": "173c0ae117ffb87e46c429c2847a3da2beafd7683b47f097f33871943df37c7a"
+      "hash": "1bf29fda6076c2d175d9fbd19ac7185774eaf1679695a20027f81de827cfbb63"
     },
     {
       "name": "rune/candle_L2.png",
-      "size": 84598,
+      "size": 9380,
       "type": ".png",
-      "hash": "0df23aa6d1a79f2c7e3a9b9e46686ca9b4215fed2b79817f7740de8f7932c126"
+      "hash": "704d904e58832deb65a0fff2ab9df3ea3f675da2a1c79911d2cb9d3dc7eb4f9d"
     },
     {
       "name": "rune/candle_L3.png",
-      "size": 93745,
+      "size": 9412,
       "type": ".png",
-      "hash": "b5ee2eaac3b6dfaf982d3de269b89bc5b7b1fc750a77ff9b6f8e6015e10e856b"
+      "hash": "9d90299eda8d31ad4fe33f9aa7fab46e7411d972c47dcce449eb12f4f7e88320"
     },
     {
       "name": "rune/chalice_L1.png",
-      "size": 85220,
+      "size": 8796,
       "type": ".png",
-      "hash": "30c36916f7ccd6b4a5c37e2d3e146ae5b3c5e82b89c67eb6d41e74795c52aa0a"
+      "hash": "390a3601aca612bca65bcd685a26fa602bf0efe508e37564f28146313bcb70c4"
     },
     {
       "name": "rune/chalice_L2.png",
-      "size": 88005,
+      "size": 9146,
       "type": ".png",
-      "hash": "ae1ea67e910e0f08d1dfc211ea1e5e2f0f6ccbbcdf5963c1bceeb8b150f19aca"
+      "hash": "5a88320b61d2e8f6f8e46c8064523db09bc12d405bdada96756e49d5434e7a7c"
     },
     {
       "name": "rune/chalice_L3.png",
-      "size": 96347,
+      "size": 9367,
       "type": ".png",
-      "hash": "b03b8f89f16ea510f453431e23ba6e6a04062f11bfd6f11f84a32da23d12cdf6"
+      "hash": "368239ce0d93c23775005cf41db7d9c84e8e2b779af562573153288671dec228"
     },
     {
       "name": "rune/dagger_L1.png",
-      "size": 94806,
+      "size": 9264,
       "type": ".png",
-      "hash": "85f92d25d368e693930f5e5c34d85554593bf28693545bd232a560b751e0337f"
+      "hash": "949b02d6f6a8238e2951398519ef5705fe5b115d1e9b542dd4b99f445e152ddb"
     },
     {
       "name": "rune/dagger_L2.png",
-      "size": 96757,
+      "size": 9576,
       "type": ".png",
-      "hash": "d3148826f1e8486a0a383aa35022fe201125b0e12009e4871dcc806e6036fda9"
+      "hash": "09681a6d6091d89974a2261c0169b80ccdb820ae296ffcaa57b75699ec905181"
     },
     {
       "name": "rune/dagger_L3.png",
-      "size": 105342,
+      "size": 9891,
       "type": ".png",
-      "hash": "ac8488e745aa916f9b13ee1c416545e4e00c48f6b8e4a56b764582ae6e5b2cf2"
+      "hash": "6eb7bbb0700d153b8cca06439aff025de7efe471127d340b089ea5b3b8cf6d26"
     },
     {
       "name": "rune/hand_L1.png",
-      "size": 87669,
+      "size": 8890,
       "type": ".png",
-      "hash": "8dacd4d76a31a3ccdded1cd7c0b8447e9697044f011ea8a1e4a6e0dbaf7d4e74"
+      "hash": "792e5d66349000ae48e27858328212b626a8ae46c400858cd7cf130a22dba0d4"
     },
     {
       "name": "rune/hand_L2.png",
-      "size": 91269,
+      "size": 9303,
       "type": ".png",
-      "hash": "039bfdd102b35c331e11e273760a9488437dd69c76de69ea26627d53278b93c9"
+      "hash": "c39df1fc3237f83b20d13c6f330078205fd63a4fe5098985ed478f85fd2f5455"
     },
     {
       "name": "rune/hand_L3.png",
-      "size": 99220,
+      "size": 9644,
       "type": ".png",
-      "hash": "46d0498802ca252081c6ad7134a2f6fdb9736e5125c781cb67329b91553facbf"
+      "hash": "e54e121c3aeadd3ca968827503659c0b259be4674e476d7368cc942db37e334b"
     },
     {
       "name": "rune/horn_L1.png",
-      "size": 87165,
+      "size": 9786,
       "type": ".png",
-      "hash": "9ea6fc680540f5a192e7dff308ff6a0c4f611885211ff4a23674673d8f574792"
+      "hash": "82e97044133815cc55bb1ebc591f5a7755abcdd1e4224b2037561e8fd79b0f58"
     },
     {
       "name": "rune/horn_L2.png",
-      "size": 89946,
+      "size": 9926,
       "type": ".png",
-      "hash": "a347527fc62cab0f0f738ea64bd11b8985757ab4743f5aae7da400d9a495dbe2"
+      "hash": "6e30f10155efb24e48b5d7551893e06701203dd3bd168a179c9935914d292e88"
     },
     {
       "name": "rune/horn_L3.png",
-      "size": 99175,
+      "size": 9935,
       "type": ".png",
-      "hash": "4f1e4a3d9addab5fa0bb75f2a7e0acb1493337c1862d483dbac98b0b01d5aec3"
+      "hash": "a56a5f28fbe04ad9c9a0cad49bc53560f1272f0af4c1a9a5a63de19cbd72ea2c"
     },
     {
       "name": "rune/key_L1.png",
-      "size": 79245,
+      "size": 9135,
       "type": ".png",
-      "hash": "4757922959b1347f721215db6cfd4849e3652c00093dd5f85453022b5798da01"
+      "hash": "f49f8cbef364db2fa036c7d95da5db13c630e644bc33c05af93a107b56e4871e"
     },
     {
       "name": "rune/key_L2.png",
-      "size": 82507,
+      "size": 9425,
       "type": ".png",
-      "hash": "9c9328c5f4091c6e485126c16ac26a97cb4f6adea4d7be9438303e2a35363a10"
+      "hash": "355cc53885ef170c66293b7cf684452dc7b91e443dfe71a9cddc0eb72806a870"
     },
     {
       "name": "rune/key_L3.png",
-      "size": 95472,
+      "size": 9726,
       "type": ".png",
-      "hash": "07ca5e7b5b512744eca72652e2b3df8c12bfd29395c71bfc43f285a663d369f0"
+      "hash": "23872c7a4a5b99ee91c2f6b804f9ef6829be3dc2e6ecb9d4fe4cab7ddd8affb3"
     },
     {
       "name": "rune/poison_L1.png",
-      "size": 93144,
+      "size": 9267,
       "type": ".png",
-      "hash": "a99472b22b2b24371dbbe2dc4767f0e7ce6bdd19113ba2267a4175ca8de0b305"
+      "hash": "ccc799ae72031cbd76a667da98556ee5fcf8a5212682fd3d6a383e74337cf8df"
     },
     {
       "name": "rune/poison_L2.png",
-      "size": 95203,
+      "size": 9603,
       "type": ".png",
-      "hash": "6746d40816b97635e72187bd769cf2e4eeec2cb1fb8675a1b777535f58865d4e"
+      "hash": "001dc4d0460e7e0b66d1099afc5e048db751e73d8c01933de90f4626b6310e5e"
     },
     {
       "name": "rune/poison_L3.png",
-      "size": 97824,
+      "size": 9693,
       "type": ".png",
-      "hash": "9458e076e2dc81f6a19ac1b9068ad17af28af9a60ef16d07da0ed6e0341c8ebb"
+      "hash": "93da4b2624a3b1b5dacfd3a62b6b1bc8f4d3c758bf8f6224dd824578c2ccf38e"
     },
     {
       "name": "rune/shield_L1.png",
-      "size": 87764,
+      "size": 9382,
       "type": ".png",
-      "hash": "636cf534d7dedad60fe1cfd46cb8920673d1182affc176eb00d6388360e4b238"
+      "hash": "9d20c1422602e8259f67787d4dbfda30b47e1c87fe6c597e8de90ccdddf0c88e"
     },
     {
       "name": "rune/shield_L2.png",
-      "size": 90739,
+      "size": 9585,
       "type": ".png",
-      "hash": "c6c0dded563755db275134cf0bb9bffad4ba9e822bf72ba9791ac8712b939696"
+      "hash": "34b5f5bd9ac35c7f907912e5ab73842620aa2e1d5bc55cd2082539837e70f698"
     },
     {
       "name": "rune/shield_L3.png",
-      "size": 96339,
+      "size": 9590,
       "type": ".png",
-      "hash": "9f2e9092fa81b21656c2abc3f707523d3256955e8d10886788070bd8511dc526"
+      "hash": "961ffbdbb0d9f6f30f4858df69c3ce42ea04351c04d5160f9a154f2120caa8d0"
     },
     {
       "name": "rune/spike_L1.png",
-      "size": 86639,
+      "size": 9464,
       "type": ".png",
-      "hash": "a44cb55be1bde4de88f323b0058d5dbdbeb7d6fe0d10f1975582a2a387e987c1"
+      "hash": "9c92cfc7e27601cd84dd529fb4237e1b9fd3dd23fd19d8aee434d0ebef6776b9"
     },
     {
       "name": "rune/spike_L2.png",
-      "size": 89105,
+      "size": 9695,
       "type": ".png",
-      "hash": "7ffeaae25acc7bf6972dc3e3d97cee5592c68ab9d3d2e71f02425a7ad6cf59b2"
+      "hash": "37baf39321f9f9f5508be86c7e70c1a4721743748b0698e8d5f48195f7d3ee68"
     },
     {
       "name": "rune/spike_L3.png",
-      "size": 99218,
+      "size": 9739,
       "type": ".png",
-      "hash": "47740d65da04089d9b73fee18432488c879ef1bf7526a34232514cb493994e08"
+      "hash": "ef34301f88fe5f18f1920ee2a39d5fe4c161ab51ff27fabe37234d3214faed5a"
     },
     {
       "name": "rune/ultimate_L1.png",
-      "size": 261471,
+      "size": 10652,
       "type": ".png",
-      "hash": "c271e7944bf730fe5e50c2885e0a55e40d76e1001f56f4e3776e4112d032a6b0"
+      "hash": "1b4ecb447ee56ce510eb5cb9c8119b8c84111f0f3cfc502757bc1ca22946c95d"
     },
     {
       "name": "rune/ultimate_L2.png",
-      "size": 262743,
+      "size": 10928,
       "type": ".png",
-      "hash": "c13edb1018fa68b4b6615b811e9a7e59960890341f604f5c0a124f87a773a74e"
+      "hash": "40304618c2b888181f68dea2767b3f1ae060b0e7e4d44ce3a772a3b91ef61cff"
     },
     {
       "name": "rune/ultimate_L3.png",
-      "size": 261709,
+      "size": 10909,
       "type": ".png",
-      "hash": "f421abda77a2b3a2501b30a85b2db5ba8ee3ed77997404666f96151bd0c9073b"
+      "hash": "7ed9f1a061bbe9e2bcded4b877795a467408983bd340468100bada7eb8878a8b"
     },
     {
       "name": "rune/wing_L1.png",
-      "size": 86110,
+      "size": 9039,
       "type": ".png",
-      "hash": "fecf06fb99f635fe44f86c62e2c29276f4df6b696e3d6a3ff7d1f50e8ef42980"
+      "hash": "3365dcbfb4cdcb8f6b11b02d5115b637938e5ce97f54f4572857cd619651c50a"
     },
     {
       "name": "rune/wing_L2.png",
-      "size": 89391,
+      "size": 9377,
       "type": ".png",
-      "hash": "7f0f015be58f97fd5c64bf6d534dc49dab194c5f97346b928093b43a77ecd8fb"
+      "hash": "a3c7dc229c203bf848522ce28ad302bc8cdf9c460809cc0a79c44f693085e4ff"
     },
     {
       "name": "rune/wing_L3.png",
-      "size": 84321,
+      "size": 9044,
       "type": ".png",
-      "hash": "5bffcb12cc5e32adaedc913eb0557b816d748356add13375548fc4460557fd4e"
+      "hash": "173074e5d612244561855404ae7fbdd8ada8774ba9274f15cbb39237de6cfe46"
     },
     {
       "name": "skins/Aatrox/loading/Aatrox_0.jpg",
