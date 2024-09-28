@@ -1688,9 +1688,9 @@
     },
     {
       "name": "manifest.json",
-      "size": 570618,
+      "size": 574100,
       "type": ".json",
-      "hash": "3a9eee7979dd57c9b1c56ee8d0fd755efeec668a2d5b944dd12fc30edc979d23"
+      "hash": "db95822ea7ddeea3a5692405d3c860914d33ad5fc722863314a878febe4bbf7e"
     },
     {
       "name": "mastery/100-gray.png",
@@ -3197,96 +3197,6 @@
       "size": 4800,
       "type": ".png",
       "hash": "540e4b48eb6d8e1a9bc3bd65188c4307bdfbc52169a179493107f42dec5ce87e"
-    },
-    {
-      "name": "preview/SummonerClairvoyance.jpg",
-      "size": 83333,
-      "type": ".jpg",
-      "hash": "6f8708279dd2fb7394ad1e94c761d524668c7dfed8252773fc5b12e0ef04e6d9"
-    },
-    {
-      "name": "preview/SummonerClarity.jpg",
-      "size": 59068,
-      "type": ".jpg",
-      "hash": "7ee9301d5ea61541e53887efa7636d15ccc8765784624af5ea366ae2b7bf6a7b"
-    },
-    {
-      "name": "preview/SummonerCleanse.jpg",
-      "size": 85700,
-      "type": ".jpg",
-      "hash": "b0fe9efbc64313c3135a5005a4638db673dbdbfb801b99fcba2a91f53141cc20"
-    },
-    {
-      "name": "preview/SummonerExhaust.jpg",
-      "size": 85441,
-      "type": ".jpg",
-      "hash": "29325d1576c5424fdc410156a71ff54be5045930bb471ba88557ea556ebe7851"
-    },
-    {
-      "name": "preview/SummonerFlash.jpg",
-      "size": 85634,
-      "type": ".jpg",
-      "hash": "56cc7461eb5f095dd73ba792e41573faf8750cef80c9a1bed4fed4d402a95cb0"
-    },
-    {
-      "name": "preview/SummonerFortify.jpg",
-      "size": 86200,
-      "type": ".jpg",
-      "hash": "43c626e866ef3676f2f2095979f225198b09c94814895ff611bb32a53c7246c6"
-    },
-    {
-      "name": "preview/SummonerGhost.jpg",
-      "size": 89602,
-      "type": ".jpg",
-      "hash": "300ffe7a8fc1c31c9b6f416a500e3e9bfdee96282b29d3c12aac8f6702c750d9"
-    },
-    {
-      "name": "preview/SummonerHeal.jpg",
-      "size": 82344,
-      "type": ".jpg",
-      "hash": "ca2dc9f30f451761d6e6b81edfc9b1ad8fc144e4a45b48ff39d8c2906ee6038a"
-    },
-    {
-      "name": "preview/SummonerIgnite.jpg",
-      "size": 56779,
-      "type": ".jpg",
-      "hash": "a081a706f8fcbaf8e077806177c0a00d53346c38891edfd7e79ee674354aff02"
-    },
-    {
-      "name": "preview/SummonerObserver.jpg",
-      "size": 83333,
-      "type": ".jpg",
-      "hash": "6f8708279dd2fb7394ad1e94c761d524668c7dfed8252773fc5b12e0ef04e6d9"
-    },
-    {
-      "name": "preview/SummonerPromote.jpg",
-      "size": 82752,
-      "type": ".jpg",
-      "hash": "d77d2babde91e7cd23bffb824082540f28d5929e1fa0675bf5b6bb2c22fc06ed"
-    },
-    {
-      "name": "preview/SummonerRally.jpg",
-      "size": 86847,
-      "type": ".jpg",
-      "hash": "207e38b4bd8b47397a043094e4ebdf209b37cb0d452b7f3d8cf0759db8f0c20f"
-    },
-    {
-      "name": "preview/SummonerRevive.jpg",
-      "size": 113915,
-      "type": ".jpg",
-      "hash": "344e4ccc126cc8038866ad1c12dede1804f2b9e2cc3e898db3985e48f4fc2f62"
-    },
-    {
-      "name": "preview/SummonerSmite.jpg",
-      "size": 70474,
-      "type": ".jpg",
-      "hash": "3a763f7443980b91385c138482570ff8d946299240e88b5d9724a38e9b5e74ff"
-    },
-    {
-      "name": "preview/SummonerTeleport.jpg",
-      "size": 90760,
-      "type": ".jpg",
-      "hash": "306eb34a3169a67968f0ec06be9eb70fd4a94e4d194a53b7da04cc7860b4a383"
     },
     {
       "name": "ranks/Bronze1.png",
@@ -18839,6 +18749,96 @@
       "size": 6141,
       "type": ".png",
       "hash": "d8bfe7962403f9accd0aef638016d4c5766a03333bec3951a548ca3f5eb40a8a"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerClairvoyance.jpg",
+      "size": 83333,
+      "type": ".jpg",
+      "hash": "6f8708279dd2fb7394ad1e94c761d524668c7dfed8252773fc5b12e0ef04e6d9"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerClarity.jpg",
+      "size": 59068,
+      "type": ".jpg",
+      "hash": "7ee9301d5ea61541e53887efa7636d15ccc8765784624af5ea366ae2b7bf6a7b"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerCleanse.jpg",
+      "size": 85700,
+      "type": ".jpg",
+      "hash": "b0fe9efbc64313c3135a5005a4638db673dbdbfb801b99fcba2a91f53141cc20"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerExhaust.jpg",
+      "size": 85441,
+      "type": ".jpg",
+      "hash": "29325d1576c5424fdc410156a71ff54be5045930bb471ba88557ea556ebe7851"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerFlash.jpg",
+      "size": 85634,
+      "type": ".jpg",
+      "hash": "56cc7461eb5f095dd73ba792e41573faf8750cef80c9a1bed4fed4d402a95cb0"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerFortify.jpg",
+      "size": 86200,
+      "type": ".jpg",
+      "hash": "43c626e866ef3676f2f2095979f225198b09c94814895ff611bb32a53c7246c6"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerGhost.jpg",
+      "size": 89602,
+      "type": ".jpg",
+      "hash": "300ffe7a8fc1c31c9b6f416a500e3e9bfdee96282b29d3c12aac8f6702c750d9"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerHeal.jpg",
+      "size": 82344,
+      "type": ".jpg",
+      "hash": "ca2dc9f30f451761d6e6b81edfc9b1ad8fc144e4a45b48ff39d8c2906ee6038a"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerIgnite.jpg",
+      "size": 56779,
+      "type": ".jpg",
+      "hash": "a081a706f8fcbaf8e077806177c0a00d53346c38891edfd7e79ee674354aff02"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerObserver.jpg",
+      "size": 83333,
+      "type": ".jpg",
+      "hash": "6f8708279dd2fb7394ad1e94c761d524668c7dfed8252773fc5b12e0ef04e6d9"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerPromote.jpg",
+      "size": 82752,
+      "type": ".jpg",
+      "hash": "d77d2babde91e7cd23bffb824082540f28d5929e1fa0675bf5b6bb2c22fc06ed"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerRally.jpg",
+      "size": 86847,
+      "type": ".jpg",
+      "hash": "207e38b4bd8b47397a043094e4ebdf209b37cb0d452b7f3d8cf0759db8f0c20f"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerRevive.jpg",
+      "size": 113915,
+      "type": ".jpg",
+      "hash": "344e4ccc126cc8038866ad1c12dede1804f2b9e2cc3e898db3985e48f4fc2f62"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerSmite.jpg",
+      "size": 70474,
+      "type": ".jpg",
+      "hash": "3a763f7443980b91385c138482570ff8d946299240e88b5d9724a38e9b5e74ff"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerTeleport.jpg",
+      "size": 90760,
+      "type": ".jpg",
+      "hash": "306eb34a3169a67968f0ec06be9eb70fd4a94e4d194a53b7da04cc7860b4a383"
     }
   ]
 }
