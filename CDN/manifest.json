@@ -920,9 +920,9 @@
     },
     {
       "name": "audio/overview/click.ogg",
-      "size": 8775,
+      "size": 7349,
       "type": ".ogg",
-      "hash": "faa0161619a5e6bf9d8d5bd182834391c65a996829c6932c645d3389a1f17d33"
+      "hash": "b8a858f8ce0856e2df334dcab9a3974efb62d55c4319b5ff31ec546da7df8b71"
     },
     {
       "name": "audio/overview/desktop.ini",
@@ -1687,10 +1687,1348 @@
       "hash": "e3937a559e67eafa379d1877f541cb899aa42b83d89bdd5a4a71c185577cadb8"
     },
     {
+      "name": "items/034.png",
+      "size": 7687,
+      "type": ".png",
+      "hash": "7d2d61578a3c32765bf69191347af3f99a73b753563d519de1af984aa0f16121"
+    },
+    {
+      "name": "items/037.png",
+      "size": 10250,
+      "type": ".png",
+      "hash": "eb9f2eae97485d7bad3f228f6652d5f06579adcc3e98600613cf8259bb830306"
+    },
+    {
+      "name": "items/055.png",
+      "size": 12840,
+      "type": ".png",
+      "hash": "8f2b22d4bbb42670f57e917358cec130bf836c6fdcb949603353396d210d36df"
+    },
+    {
+      "name": "items/059.png",
+      "size": 6662,
+      "type": ".png",
+      "hash": "b94acbfc90d636eeda57a04ef129c25d5c549a80fcdadd811736e3fb8f66a093"
+    },
+    {
+      "name": "items/066.png",
+      "size": 6131,
+      "type": ".png",
+      "hash": "dce7ef0e1978378efdfd7b504c6487f7ceac1b75f1ec7aa0706d05c15d51e4d7"
+    },
+    {
+      "name": "items/073.png",
+      "size": 7221,
+      "type": ".png",
+      "hash": "7c883e8f0cb4b6a5abb09727e467c08789f225715a60ccc5f229e6a8e301f487"
+    },
+    {
+      "name": "items/082.png",
+      "size": 7083,
+      "type": ".png",
+      "hash": "71e431ba00c4daf0c26e105a445f9ae641610954fbddc23465fb98583d41ea1b"
+    },
+    {
+      "name": "items/096.png",
+      "size": 9535,
+      "type": ".png",
+      "hash": "c7b32f44ba028f74c8b4a57cc3a724513bcfddf08088b14a15b8b2c2b4a4ef78"
+    },
+    {
+      "name": "items/1001.png",
+      "size": 4237,
+      "type": ".png",
+      "hash": "fdcb48dc9bef77d05311cf5a9a81ff1791e8b82c52bd271ae9191057e5f7c7af"
+    },
+    {
+      "name": "items/1004.png",
+      "size": 6697,
+      "type": ".png",
+      "hash": "eead2f054ca27aed4119e34c8dd4500a7933861dcb71047a0e36ef5bbc880af6"
+    },
+    {
+      "name": "items/1005.png",
+      "size": 7200,
+      "type": ".png",
+      "hash": "0987c32b483eb9023a591247c31c565d02e6bc710818bcd95d564008a550ba5c"
+    },
+    {
+      "name": "items/1006.png",
+      "size": 4741,
+      "type": ".png",
+      "hash": "0d4d734359ac84a8ebac7915422cf8f112919366fee5d05e392105b24b373c80"
+    },
+    {
+      "name": "items/1007.png",
+      "size": 6776,
+      "type": ".png",
+      "hash": "8e0f971ed8548e818c943339bab498a285a59bd5011f122c7ceb4f18bcc250da"
+    },
+    {
+      "name": "items/1008.png",
+      "size": 4630,
+      "type": ".png",
+      "hash": "3972ec46ae24383b253245145e1ef9bfa9562bbb1ff72a7e6cc601a5c7c244f5"
+    },
+    {
+      "name": "items/1010_Belt_of_Brute_Strength.png",
+      "size": 5184,
+      "type": ".png",
+      "hash": "a22d60951b4fd8d2bdc9c781ecb72cd77bc8bfd9a993da32fa2d55664dbbe855"
+    },
+    {
+      "name": "items/1011.png",
+      "size": 5184,
+      "type": ".png",
+      "hash": "a22d60951b4fd8d2bdc9c781ecb72cd77bc8bfd9a993da32fa2d55664dbbe855"
+    },
+    {
+      "name": "items/1012.png",
+      "size": 5194,
+      "type": ".png",
+      "hash": "e446e6026c7392930c03c8be72c5557d8369403f511583caec6e5d27434dd8fb"
+    },
+    {
+      "name": "items/1014.png",
+      "size": 4373,
+      "type": ".png",
+      "hash": "e4bfdd4b58a083994cc809e109fd4251756cf15e0eda3ac30b09da9770fcf493"
+    },
+    {
+      "name": "items/1015.png",
+      "size": 4373,
+      "type": ".png",
+      "hash": "e4bfdd4b58a083994cc809e109fd4251756cf15e0eda3ac30b09da9770fcf493"
+    },
+    {
+      "name": "items/1018.png",
+      "size": 5456,
+      "type": ".png",
+      "hash": "eb5156f9f6943f41565f474ffb11642fabdc2aa8fa26db8aff68d12ad8dec442"
+    },
+    {
+      "name": "items/1019.png",
+      "size": 6146,
+      "type": ".png",
+      "hash": "f0460addcd8c92fda72f3e2e0c36a31b39ac0da6314984b13e6c5feffcbf6581"
+    },
+    {
+      "name": "items/1020.png",
+      "size": 6727,
+      "type": ".png",
+      "hash": "6f99f1be3d3f60a58f3626166e38d19fab5f9074110f3a1a5fad268e0ac42e08"
+    },
+    {
+      "name": "items/1022.png",
+      "size": 6697,
+      "type": ".png",
+      "hash": "eead2f054ca27aed4119e34c8dd4500a7933861dcb71047a0e36ef5bbc880af6"
+    },
+    {
+      "name": "items/1024.png",
+      "size": 5191,
+      "type": ".png",
+      "hash": "46b70cd67fd57d239901b932fb674d74c81dc089237cfc64559feb0c8bf94a23"
+    },
+    {
+      "name": "items/1026.png",
+      "size": 7227,
+      "type": ".png",
+      "hash": "216a78026955ba547e009f4dbcc6ea41468df82f0d2648a81f283da0a7c2aeca"
+    },
+    {
+      "name": "items/1027.png",
+      "size": 5019,
+      "type": ".png",
+      "hash": "527fb6e7de372371fa959ec9baffcce6073603ed5d357f5d004ad15b93bf8631"
+    },
+    {
+      "name": "items/1028.png",
+      "size": 4819,
+      "type": ".png",
+      "hash": "6865a4c063f8427edee18ef39c8eaafb77481e063bc2e5b472644f1c163a4630"
+    },
+    {
+      "name": "items/1029.png",
+      "size": 6009,
+      "type": ".png",
+      "hash": "8e761c9a110f0817af113c48dbc21386b4b4dd5f463f05047d88bdbcc2f4dde7"
+    },
+    {
+      "name": "items/1031.png",
+      "size": 6771,
+      "type": ".png",
+      "hash": "3a29e2a1a0c221023042a8b6ac0e47e6d0db56afd646594d3022843a8b9a168c"
+    },
+    {
+      "name": "items/1033.png",
+      "size": 5906,
+      "type": ".png",
+      "hash": "c810113e6c3e1455eebb5a2155ccca4ad06923902a821f58928be59e1a1d9a3d"
+    },
+    {
+      "name": "items/1034.png",
+      "size": 5478,
+      "type": ".png",
+      "hash": "b6c68c0174d1f598b0b1d8931da8b5359ed29f89df1479c3dcbaf5fcf92e11ba"
+    },
+    {
+      "name": "items/1035.png",
+      "size": 4983,
+      "type": ".png",
+      "hash": "a65b7ad64528d911e7050591ed967eae72d71d670faa29a07e0e49993b366a9f"
+    },
+    {
+      "name": "items/1036.png",
+      "size": 6129,
+      "type": ".png",
+      "hash": "228693840d8f3f254521c604a63019f6ca6ce411c6a8db99bf3c531bd12001ba"
+    },
+    {
+      "name": "items/1037.png",
+      "size": 6893,
+      "type": ".png",
+      "hash": "b932de78f71b60e82ad40b8219c09c361954965e290ea4d3ea7365dee8b8994c"
+    },
+    {
+      "name": "items/1038.png",
+      "size": 6335,
+      "type": ".png",
+      "hash": "4e89cfc198da030e14dda4085a5c9f7f07447150b07af3744848431da9e59b11"
+    },
+    {
+      "name": "items/1039.png",
+      "size": 6016,
+      "type": ".png",
+      "hash": "312aeb6809e4416e4c313536612d44606231acd61f13004e1d62da0cd9c0878b"
+    },
+    {
+      "name": "items/1041.png",
+      "size": 8286,
+      "type": ".png",
+      "hash": "a7f11b5b8fa2e3acfa960f3d5ada27e85e15e560fcabe875124143796f917ab1"
+    },
+    {
+      "name": "items/1042.png",
+      "size": 5759,
+      "type": ".png",
+      "hash": "5581561b6db19759ee71eb0a95fd7907fa91fc89ac6de1592a15fb6347eea877"
+    },
+    {
+      "name": "items/1043.png",
+      "size": 6576,
+      "type": ".png",
+      "hash": "07f5366203fc6ccd77f3c73ca5d5366c4bc65b6231c8ca08e1d914982c971453"
+    },
+    {
+      "name": "items/1044.png",
+      "size": 6597,
+      "type": ".png",
+      "hash": "15b54a79631cbdcd1e52ece2290344de6492b11dbc16452671b64213234a93cd"
+    },
+    {
+      "name": "items/1048_Knife.png",
+      "size": 3116,
+      "type": ".png",
+      "hash": "38eece9bef67e9b6487ed4ad631ebf1fb36375ddb1a3e38fa2640e44da270742"
+    },
+    {
+      "name": "items/1051_Brawlers_Gloves.png",
+      "size": 6223,
+      "type": ".png",
+      "hash": "e15cfb21c79c4cdba673ac95ac3cc00d951eb6b9e923a51ec3eaddccacbfdea7"
+    },
+    {
+      "name": "items/1052_Amplifying_Scepter.png",
+      "size": 6715,
+      "type": ".png",
+      "hash": "69443a967c9e9d44b396f2d57a2c802ceb74f07f9233ecb5b24b7efeecf9187e"
+    },
+    {
+      "name": "items/1054.png",
+      "size": 7107,
+      "type": ".png",
+      "hash": "44b4c5613075aa87e17ae0fd52dbd20b471ad7e5b73c67039b1f17f4971fce2a"
+    },
+    {
+      "name": "items/1055.png",
+      "size": 4533,
+      "type": ".png",
+      "hash": "ece9b151d6ebd771d4eb9e23ea1d26f81ccebb1f7255767286e8ee219f70a305"
+    },
+    {
+      "name": "items/1056.png",
+      "size": 6429,
+      "type": ".png",
+      "hash": "92960749620a8fce5436c5f0bae2cd56c36379e1ff4e4c66519a2914ab797c07"
+    },
+    {
+      "name": "items/1058.png",
+      "size": 12888,
+      "type": ".png",
+      "hash": "aa4ed416bf6c940b30c87266b36b5fc7906855d001bc4b6ecb2b16dd5c949229"
+    },
+    {
+      "name": "items/1062.png",
+      "size": 5402,
+      "type": ".png",
+      "hash": "ab994afd6f204d468535484bdb19260e457207549560efd60e1b53a434dadea7"
+    },
+    {
+      "name": "items/1063.png",
+      "size": 6726,
+      "type": ".png",
+      "hash": "f48a0cca1da6c5e6c07cb4216dabb09cb0f95f39095c757cb761458bcbc645eb"
+    },
+    {
+      "name": "items/113.png",
+      "size": 7894,
+      "type": ".png",
+      "hash": "79ba04321c8b54db2af3d326212d05306eb6e18bfb2aac949ce91484bc04a8ae"
+    },
+    {
+      "name": "items/122.png",
+      "size": 7596,
+      "type": ".png",
+      "hash": "c303f8566af4c865f4cdfdb34de19b542db2bcb923700ebf358d2fa664b74886"
+    },
+    {
+      "name": "items/124.png",
+      "size": 7441,
+      "type": ".png",
+      "hash": "ebe94dd31dd6b473004ca91f2d10761be1ad59269d972072beb5559b8af55cb3"
+    },
+    {
+      "name": "items/126.png",
+      "size": 8208,
+      "type": ".png",
+      "hash": "5fe14de8168bbc764817ce8cb34d7169d8697bd3e9b19d59948205f3cdf8fc80"
+    },
+    {
+      "name": "items/139.png",
+      "size": 6754,
+      "type": ".png",
+      "hash": "f311d9a887f3605b8bce6df8ff0f4dcad7ebf9fec42efff7b1892e360ebb0430"
+    },
+    {
+      "name": "items/161.png",
+      "size": 6924,
+      "type": ".png",
+      "hash": "68a4b6901eddc891b26f2726280bcd8904880b57ac7acef27e212855b0259139"
+    },
+    {
+      "name": "items/176.png",
+      "size": 6989,
+      "type": ".png",
+      "hash": "c34defd733ed0ba4366c06e75e00989f2a574f22fe7af88396e898085fcf3b5d"
+    },
+    {
+      "name": "items/2001.png",
+      "size": 4071,
+      "type": ".png",
+      "hash": "4da8e7851a67dc32a4bd3508e962b93ccc08c78bb9be8f5dbdb00b2dcc5b4bc2"
+    },
+    {
+      "name": "items/2002.png",
+      "size": 6061,
+      "type": ".png",
+      "hash": "5163ad12be622d1c30075e99b94d8c28d926a381f98e7a1653f39dcc857c5110"
+    },
+    {
+      "name": "items/2003.png",
+      "size": 10328,
+      "type": ".png",
+      "hash": "83b1a07fff7704a44b501f885c25dd5ab2a6f4eccc46577ab3491563b7c75022"
+    },
+    {
+      "name": "items/2004.png",
+      "size": 10628,
+      "type": ".png",
+      "hash": "35bd70a7f8a4c6d0bc52aeedc3ce58481404f1cc90f4aebdaf4e2a1362ba90e0"
+    },
+    {
+      "name": "items/2006.png",
+      "size": 6715,
+      "type": ".png",
+      "hash": "69443a967c9e9d44b396f2d57a2c802ceb74f07f9233ecb5b24b7efeecf9187e"
+    },
+    {
+      "name": "items/2008.png",
+      "size": 6596,
+      "type": ".png",
+      "hash": "1f1f6c5487351388d839209aa2837a359e63886292757dd972655078795e6c72"
+    },
+    {
+      "name": "items/2009.png",
+      "size": 5157,
+      "type": ".png",
+      "hash": "f260a5e58276e217d28bc3fd36fe7521db51f0e3a076146d03257b0bebe788c9"
+    },
+    {
+      "name": "items/2017.png",
+      "size": 6433,
+      "type": ".png",
+      "hash": "f2e5152173db9d3e501e7698f907123391a66e62ff617ac2e8421c05da263f99"
+    },
+    {
+      "name": "items/2018.png",
+      "size": 6485,
+      "type": ".png",
+      "hash": "31161951bb4c53d9210956ee567b653f6c1c4c43d97471258bd3199393b625a7"
+    },
+    {
+      "name": "items/2019.png",
+      "size": 6681,
+      "type": ".png",
+      "hash": "bcfa76a33eca377a7bd850b81c8d2fa9cc6bfab21a2af2db2780c60301f3813c"
+    },
+    {
+      "name": "items/2024.png",
+      "size": 6032,
+      "type": ".png",
+      "hash": "6db49750c501360a52d6467981f3284286ca2734b7e9395dbfd8f00916729461"
+    },
+    {
+      "name": "items/2026.png",
+      "size": 10021,
+      "type": ".png",
+      "hash": "fc8e020d07fec3c6089fc5957ea95cc95abacd1848e54a82a35d4321a57b89bf"
+    },
+    {
+      "name": "items/2028.png",
+      "size": 4070,
+      "type": ".png",
+      "hash": "e7bf4e2c0fe8f31b392c51898bba06f2964b25295649f11c3513cd1537bbe2ce"
+    },
+    {
+      "name": "items/2030.png",
+      "size": 6701,
+      "type": ".png",
+      "hash": "13b824eed9f2ca53a5d7c86ce09cc02bba45231e6ee673b23f01033d5785ac70"
+    },
+    {
+      "name": "items/2032.png",
+      "size": 6753,
+      "type": ".png",
+      "hash": "c0e042c3d0811d099c0da33b34cd9af2d5983a586144ab90d12cb4ee21da098e"
+    },
+    {
+      "name": "items/2036.png",
+      "size": 5887,
+      "type": ".png",
+      "hash": "3bbb3a46579965a44079e61582ddfa2bccafce72147ae44026aa2914e34481f2"
+    },
+    {
+      "name": "items/2037.png",
+      "size": 5950,
+      "type": ".png",
+      "hash": "c213f5901e362f3bd3dde70a4ee31556b1b079d55045cbd5d29430b4f455ab77"
+    },
+    {
+      "name": "items/2038.png",
+      "size": 6300,
+      "type": ".png",
+      "hash": "43215afdded062fb27ecbb4a0ff4416224db1832cdd0605f6069f8dfd9c12602"
+    },
+    {
+      "name": "items/2039.png",
+      "size": 6076,
+      "type": ".png",
+      "hash": "adfa85e48aef03a34bd60219ec5a56c9c9122e8879ca93348fde2472d5e615c4"
+    },
+    {
+      "name": "items/2041.png",
+      "size": 6480,
+      "type": ".png",
+      "hash": "b3d262b514b60230cd00c662cb72dc63dc3606d845278ad5bfac0b7a220e0881"
+    },
+    {
+      "name": "items/2042.png",
+      "size": 3864,
+      "type": ".png",
+      "hash": "bae16f6af5048119e522c9814eecd795229e84dc4a1697d5a7aea5b5daaf2cae"
+    },
+    {
+      "name": "items/2043.png",
+      "size": 4994,
+      "type": ".png",
+      "hash": "23b79c69ad44ff6c77d6d5e4c1697379aba87541bb64cb68863fa2efea97cd80"
+    },
+    {
+      "name": "items/2044.png",
+      "size": 4113,
+      "type": ".png",
+      "hash": "3b78b8a05bbbec04fc2a072a935d1bb1688f84ec819a9640e01247da0e4b28c1"
+    },
+    {
+      "name": "items/2045.png",
+      "size": 4113,
+      "type": ".png",
+      "hash": "3b78b8a05bbbec04fc2a072a935d1bb1688f84ec819a9640e01247da0e4b28c1"
+    },
+    {
+      "name": "items/2046.png",
+      "size": 4113,
+      "type": ".png",
+      "hash": "3b78b8a05bbbec04fc2a072a935d1bb1688f84ec819a9640e01247da0e4b28c1"
+    },
+    {
+      "name": "items/2047.png",
+      "size": 6801,
+      "type": ".png",
+      "hash": "9145d2fbcd0eed900ffae290ddecfbe23b810dde6c6f7d54fe0e9cd8d8acf003"
+    },
+    {
+      "name": "items/3001.png",
+      "size": 7306,
+      "type": ".png",
+      "hash": "65993af873638116e7ef5d6e209dd63d2a683732c711ea30be8e90314293906f"
+    },
+    {
+      "name": "items/3002.png",
+      "size": 6789,
+      "type": ".png",
+      "hash": "0b5283ad317aa43620c78984fb2be38e4542993df54b8d82da4c6dd26ec3a807"
+    },
+    {
+      "name": "items/3003.png",
+      "size": 6789,
+      "type": ".png",
+      "hash": "0b5283ad317aa43620c78984fb2be38e4542993df54b8d82da4c6dd26ec3a807"
+    },
+    {
+      "name": "items/3004.png",
+      "size": 12143,
+      "type": ".png",
+      "hash": "784b9beac2ead5dd5f2b87e4d1dc3ed0515434297cd097e667fd89fd8826c6ca"
+    },
+    {
+      "name": "items/3005.png",
+      "size": 6643,
+      "type": ".png",
+      "hash": "768717ea4fc4aa583e30a0ed8f1fb1cd6f7d65bc6b0ee1983940b6366cef2730"
+    },
+    {
+      "name": "items/3006.png",
+      "size": 6612,
+      "type": ".png",
+      "hash": "a0d49e1763f277be92b113fc09d0a3ff06c178031114a15599247f0120c5526f"
+    },
+    {
+      "name": "items/3007.png",
+      "size": 6771,
+      "type": ".png",
+      "hash": "3a29e2a1a0c221023042a8b6ac0e47e6d0db56afd646594d3022843a8b9a168c"
+    },
+    {
+      "name": "items/3008.png",
+      "size": 6989,
+      "type": ".png",
+      "hash": "c34defd733ed0ba4366c06e75e00989f2a574f22fe7af88396e898085fcf3b5d"
+    },
+    {
+      "name": "items/3009.png",
+      "size": 5918,
+      "type": ".png",
+      "hash": "6690f673025b4689cb51e09a6f3172a9a82627fa15d64cf4410a3afa63865f5c"
+    },
+    {
+      "name": "items/3010.png",
+      "size": 7430,
+      "type": ".png",
+      "hash": "a094420cfd02a45dc20b14bbe6d6922ba69169730aa74e379688167e8cf35b04"
+    },
+    {
+      "name": "items/3011.png",
+      "size": 7781,
+      "type": ".png",
+      "hash": "710f5178dc166dc13f0a08e42bb755e016999d47750f47eb8bb3b4e37c28e5cb"
+    },
+    {
+      "name": "items/3013.png",
+      "size": 7166,
+      "type": ".png",
+      "hash": "8c5fa7c0442fba51c38a8b2c06f07330df275e5b3c1c2ab121bc1b3c0106de52"
+    },
+    {
+      "name": "items/3014.png",
+      "size": 6803,
+      "type": ".png",
+      "hash": "da3e3bac9c3b195a5f58e6a3bfd02564f6b367fe43a92ca68193b728c254051a"
+    },
+    {
+      "name": "items/3015_Duskbringer.png",
+      "size": 6129,
+      "type": ".png",
+      "hash": "228693840d8f3f254521c604a63019f6ca6ce411c6a8db99bf3c531bd12001ba"
+    },
+    {
+      "name": "items/3016.png",
+      "size": 6278,
+      "type": ".png",
+      "hash": "9c9840d6db6fd5cd40bd5568e71602a97b69756d37fdbe9d1738627a84b36538"
+    },
+    {
+      "name": "items/3017.png",
+      "size": 6719,
+      "type": ".png",
+      "hash": "559edaee93c70d186c0f964f85285660929393eba8d1a806fccc3b7a26ca9d11"
+    },
+    {
+      "name": "items/3018.png",
+      "size": 6924,
+      "type": ".png",
+      "hash": "68a4b6901eddc891b26f2726280bcd8904880b57ac7acef27e212855b0259139"
+    },
+    {
+      "name": "items/3020.png",
+      "size": 5721,
+      "type": ".png",
+      "hash": "1a76c61af777caea86507339d9c6983556c370c895e18d555b4c743b05e09c88"
+    },
+    {
+      "name": "items/3021.png",
+      "size": 6265,
+      "type": ".png",
+      "hash": "def30d16c906cb02fc7ee2bbe428f43567497e04eb1d5816d1e1db3e8d59733c"
+    },
+    {
+      "name": "items/3022.png",
+      "size": 7242,
+      "type": ".png",
+      "hash": "52971e42d76f883a603af3900383786316ca65e7a0bc0978bbae0328da2cdf1a"
+    },
+    {
+      "name": "items/3023.png",
+      "size": 7039,
+      "type": ".png",
+      "hash": "8639257adde416d90759decd22cded651511a3156e5f6b4f5917daa35ab51485"
+    },
+    {
+      "name": "items/3024.png",
+      "size": 6316,
+      "type": ".png",
+      "hash": "14f439853b7c07e7ba12fa1087bbfcc5023fc5a972e7bba2b0a503beaec42f81"
+    },
+    {
+      "name": "items/3025.png",
+      "size": 7441,
+      "type": ".png",
+      "hash": "ebe94dd31dd6b473004ca91f2d10761be1ad59269d972072beb5559b8af55cb3"
+    },
+    {
+      "name": "items/3026.png",
+      "size": 7849,
+      "type": ".png",
+      "hash": "b34d20bbd0da738b69177017df967ba810fe2a7b2995b892a79fe85d827b944b"
+    },
+    {
+      "name": "items/3027.png",
+      "size": 7248,
+      "type": ".png",
+      "hash": "4483bba3970ecedeec973cac2345b71c7169fa96a94f6348a9a1615afc137934"
+    },
+    {
+      "name": "items/3028.png",
+      "size": 6421,
+      "type": ".png",
+      "hash": "a6eedd4f671f27b25d2987d970e2108f01d961d3619dca54bf0c20296edc9432"
+    },
+    {
+      "name": "items/3029.png",
+      "size": 8233,
+      "type": ".png",
+      "hash": "5033b2faf47a0e56926cab94d69f79f4928ed7655c221a6f8a7cc4ab4fa55d4a"
+    },
+    {
+      "name": "items/3030.png",
+      "size": 5265,
+      "type": ".png",
+      "hash": "8536be172041d0fadc5339f56c147fd9570d6d1cb579bd45174e2c2dbddaaa13"
+    },
+    {
+      "name": "items/3031.png",
+      "size": 6365,
+      "type": ".png",
+      "hash": "7da28eff3540b6b7ddb6beab7d4916bc617c5163ec1a3e4ef4de7f5ffff85fe2"
+    },
+    {
+      "name": "items/3032.png",
+      "size": 6817,
+      "type": ".png",
+      "hash": "4936945a64a75c26ef9bc7554aebb4c494e1df587c07a236d5a5302fc72faa97"
+    },
+    {
+      "name": "items/3033.png",
+      "size": 6534,
+      "type": ".png",
+      "hash": "64227ed240688e857edd981c64935525671c0abf465894e2a5e946ec24a9c02b"
+    },
+    {
+      "name": "items/3034.png",
+      "size": 4937,
+      "type": ".png",
+      "hash": "d19c987c85b74ffa823b0cb315b9b24879bacf11fe94b112a9a256d44da3f171"
+    },
+    {
+      "name": "items/3035_Last_Whisper.png",
+      "size": 6278,
+      "type": ".png",
+      "hash": "9c9840d6db6fd5cd40bd5568e71602a97b69756d37fdbe9d1738627a84b36538"
+    },
+    {
+      "name": "items/3036.png",
+      "size": 6039,
+      "type": ".png",
+      "hash": "7c4199a15c62d178cb668f2f0a0b20f814c23d52632ec57b0226d62136e95c11"
+    },
+    {
+      "name": "items/3037.png",
+      "size": 6443,
+      "type": ".png",
+      "hash": "b8c4caba17001ef2a9694e54827c99ff8cd012789aa3c1dcda146cf7063e833f"
+    },
+    {
+      "name": "items/3038.png",
+      "size": 6282,
+      "type": ".png",
+      "hash": "966624b7c017fafb66d97d3e0d9131c5dd30572c2e665027b8cd1e70623c4894"
+    },
+    {
+      "name": "items/3039.png",
+      "size": 6889,
+      "type": ".png",
+      "hash": "2cc750f89e067b7c93e9101bbc2ece2fe9bb56c11d4b66d2683cff7c28704f8a"
+    },
+    {
+      "name": "items/3040.png",
+      "size": 7346,
+      "type": ".png",
+      "hash": "1654bbfa8a96b9131eeedf72b96ec77e66c9cbd4ce2e6a953e1826102e88467c"
+    },
+    {
+      "name": "items/3041.png",
+      "size": 6392,
+      "type": ".png",
+      "hash": "d1c9ab46a4d8d55e245ee5cedd4eee40c4c9888221c07dd9cab48d2a1b7ce2f5"
+    },
+    {
+      "name": "items/3042.png",
+      "size": 6233,
+      "type": ".png",
+      "hash": "dc470b90f8ccef2c6c45a3d9f0fbf4f26de794e25a9559a5a47d9bf7477c5621"
+    },
+    {
+      "name": "items/3043.png",
+      "size": 7150,
+      "type": ".png",
+      "hash": "0d3946a925a7f27a9ed2820670e32ee6d921a034af82e4b36f4cc56c71cb3b06"
+    },
+    {
+      "name": "items/3044.png",
+      "size": 7784,
+      "type": ".png",
+      "hash": "0269e1ddd79b052ffc627871b8f655bdda2fa08cafd051f90082cbaa13b2d2f8"
+    },
+    {
+      "name": "items/3045.png",
+      "size": 7697,
+      "type": ".png",
+      "hash": "0975f945856452f06ba06da9570b814b9013d0903338d1a23fbaac17835051a9"
+    },
+    {
+      "name": "items/3046.png",
+      "size": 6352,
+      "type": ".png",
+      "hash": "eb3bf75dc78306ed346bd789739f81e34787606f727e280e68b901e9c7a03058"
+    },
+    {
+      "name": "items/3047.png",
+      "size": 5096,
+      "type": ".png",
+      "hash": "9e5217f15993e2ae44fbd3395a625ef874658b0b8b3321a3d0122851c189058d"
+    },
+    {
+      "name": "items/3049.png",
+      "size": 4785,
+      "type": ".png",
+      "hash": "56b523b31acf7f831c75f8644d21eb2edd5c56d8c00a24f8c919ddcae6d8ce21"
+    },
+    {
+      "name": "items/3050.png",
+      "size": 6976,
+      "type": ".png",
+      "hash": "8f700eb69cbfddcf8137b89fcd77ca74e98808c54d81da5f8707d5a37e5c4717"
+    },
+    {
+      "name": "items/3051.png",
+      "size": 5031,
+      "type": ".png",
+      "hash": "f42958cbd6cc70fa379363d469b7878b3623748340115509e5b9c6b0ac7463e9"
+    },
+    {
+      "name": "items/3052.png",
+      "size": 6456,
+      "type": ".png",
+      "hash": "8fd259199fde14bd9abd5124be984509857e1c6657d2f0ec9089261d38701ca3"
+    },
+    {
+      "name": "items/3054.png",
+      "size": 6687,
+      "type": ".png",
+      "hash": "371a1d59f445979e09fc2d455f6b8408bb59c3d6e25e5ae53d51bf559f8468a5"
+    },
+    {
+      "name": "items/3056.png",
+      "size": 5390,
+      "type": ".png",
+      "hash": "e381abf2d1f2b489bdf3e40697d4035036a2507c26d13cb6ccfcd29c46da0aa7"
+    },
+    {
+      "name": "items/3057.png",
+      "size": 6005,
+      "type": ".png",
+      "hash": "6b73816d82d4ab44acca7e33291ea231aa1efc3ba5a4c473151dc32563236171"
+    },
+    {
+      "name": "items/3058.png",
+      "size": 7600,
+      "type": ".png",
+      "hash": "7c1486c851aac4901d0514aef02cf6f6f72a8c14e22bbc385412209c40293521"
+    },
+    {
+      "name": "items/3059.png",
+      "size": 6131,
+      "type": ".png",
+      "hash": "dce7ef0e1978378efdfd7b504c6487f7ceac1b75f1ec7aa0706d05c15d51e4d7"
+    },
+    {
+      "name": "items/3060.png",
+      "size": 6858,
+      "type": ".png",
+      "hash": "3d6910cb38f1271422f48f759946d367ea629b043b89cba376517b2de2d47a16"
+    },
+    {
+      "name": "items/3061.png",
+      "size": 6592,
+      "type": ".png",
+      "hash": "bbd6181c0c6a20e202ab6de6f56f72bd742205d88be6bdc7de38c7e0d746b71e"
+    },
+    {
+      "name": "items/3062.png",
+      "size": 7325,
+      "type": ".png",
+      "hash": "02dec96bdeb6af15b52ae29ed46099f36d0ea174db375873cc30c2ae7fc63f6a"
+    },
+    {
+      "name": "items/3063.png",
+      "size": 6421,
+      "type": ".png",
+      "hash": "6b1532db561a62db8d371eb3d6107d4eb8b42de8bfb8d06755021a2fdf0ca74c"
+    },
+    {
+      "name": "items/3064.png",
+      "size": 6470,
+      "type": ".png",
+      "hash": "0eb0f06965825f147d737a16da087a88712910479f73fde246efaea7b5f8fc32"
+    },
+    {
+      "name": "items/3065.png",
+      "size": 7791,
+      "type": ".png",
+      "hash": "701a1293b1bc3c0aebe6f335d86945ce0f17629f09ba0631b2d88ab796635837"
+    },
+    {
+      "name": "items/3066.png",
+      "size": 7500,
+      "type": ".png",
+      "hash": "5640d677e3713d31ab7ef55f962be442b539411d0caf4f13362abed49ef013be"
+    },
+    {
+      "name": "items/3067.png",
+      "size": 6752,
+      "type": ".png",
+      "hash": "a2b8eec9733b9cdc7e92ce1c2841f4ce7b6514ed229e9e29f61205d9436ed15c"
+    },
+    {
+      "name": "items/3067_Kindlegem.png",
+      "size": 5133,
+      "type": ".png",
+      "hash": "5e8c146c2e158efb1454a945ad23ce787a6ee2479f0957d09af7948f3d2f8cd3"
+    },
+    {
+      "name": "items/3068.png",
+      "size": 7827,
+      "type": ".png",
+      "hash": "d0c745bf0cb3fda6f0fd2ddc8e067ac110387c9179f3b1b1e02e5d306e407065"
+    },
+    {
+      "name": "items/3069.png",
+      "size": 6812,
+      "type": ".png",
+      "hash": "d2476c06a3d7c2336fb367f627890ea7a9f3903e09c2811765dec2de0b58344f"
+    },
+    {
+      "name": "items/3069_Shurelyas_Firecrest.png",
+      "size": 7293,
+      "type": ".png",
+      "hash": "57d5337bfdd111f138c19cfbd78764df5ce1d0c7aa1613093c89ca3fe85038a8"
+    },
+    {
+      "name": "items/3070.png",
+      "size": 5984,
+      "type": ".png",
+      "hash": "b4ee4db7b95fff2394151c55e83d35cf248cf2645b5d10d8cf63fc3d3d3cd84e"
+    },
+    {
+      "name": "items/3071.png",
+      "size": 6648,
+      "type": ".png",
+      "hash": "1418bc62210419dc5bd35df4872a737c6f6c5e5d27d51fbe38a1088d85542f1e"
+    },
+    {
+      "name": "items/3072.png",
+      "size": 7398,
+      "type": ".png",
+      "hash": "3a822601db272149b2f6851f556e354432ffc16f0193dc4cef7ef94797b63591"
+    },
+    {
+      "name": "items/3073.png",
+      "size": 7791,
+      "type": ".png",
+      "hash": "701a1293b1bc3c0aebe6f335d86945ce0f17629f09ba0631b2d88ab796635837"
+    },
+    {
+      "name": "items/3075.png",
+      "size": 7478,
+      "type": ".png",
+      "hash": "9a829e80e1eba2a279ca44eb70819785dafc7ec01d44cde38ab6c6eef86e2f69"
+    },
+    {
+      "name": "items/3076.png",
+      "size": 6868,
+      "type": ".png",
+      "hash": "dbe82f59dddec6e9d27692853ecfd0df7376c58384a04a24819a070b3fd39dd6"
+    },
+    {
+      "name": "items/3077.png",
+      "size": 7453,
+      "type": ".png",
+      "hash": "9bb500ab5e24369f430f67eb54467ec58d1760797e579c59ee1b071269c2a5bf"
+    },
+    {
+      "name": "items/3078.png",
+      "size": 6410,
+      "type": ".png",
+      "hash": "f6a880a65fbe7ab8416c60d021b9b850cc4107e9901adb579b135c1c19bbe49b"
+    },
+    {
+      "name": "items/3081.png",
+      "size": 7478,
+      "type": ".png",
+      "hash": "9a829e80e1eba2a279ca44eb70819785dafc7ec01d44cde38ab6c6eef86e2f69"
+    },
+    {
+      "name": "items/3082.png",
+      "size": 7330,
+      "type": ".png",
+      "hash": "7eaedec53f4c361e60ba46f894ed6019b62437fe1e08e8681ce75c9c828cac25"
+    },
+    {
+      "name": "items/3083.png",
+      "size": 8405,
+      "type": ".png",
+      "hash": "9233399a7dd4a53de30a9e5c7cf3150e3833927aa8ac847844e471bfed195a1c"
+    },
+    {
+      "name": "items/3084.png",
+      "size": 6493,
+      "type": ".png",
+      "hash": "d1b1c54ce4fb461238a0c600cf876925f1d900aae3f65c13361a76b02ff9b1e8"
+    },
+    {
+      "name": "items/3085.png",
+      "size": 5183,
+      "type": ".png",
+      "hash": "657a56544e2310e388fc3df38b5027ca1af07487511242c8eae0acad9298dd54"
+    },
+    {
+      "name": "items/3086.png",
+      "size": 6447,
+      "type": ".png",
+      "hash": "675533861e0d0356b84067da0a3b35f9dc74000ffb26ed054a3fcef5ed63cfd7"
+    },
+    {
+      "name": "items/3087.png",
+      "size": 8221,
+      "type": ".png",
+      "hash": "ae4e4e4e2f6dacb3bfb699e4ebf3a7e22f5d15c36377d9da7f8e3ab382e86089"
+    },
+    {
+      "name": "items/3088.png",
+      "size": 5481,
+      "type": ".png",
+      "hash": "4ad8733fd5e3bbf4009248eb21dc3ad970dc4797685ba07b0065ce81fa1c4097"
+    },
+    {
+      "name": "items/3089.png",
+      "size": 8257,
+      "type": ".png",
+      "hash": "c334555465615875ecc465a96b7b82222426f1d056a8b2cc10d00f0301c961b8"
+    },
+    {
+      "name": "items/3089_Zhonyas_Ring_of_the_Mindreamer.png",
+      "size": 5491,
+      "type": ".png",
+      "hash": "b7595b5e169317797ceb5a51f9c09a5f0d01d494821f0618f48c3179aee1d553"
+    },
+    {
+      "name": "items/3090.png",
+      "size": 5885,
+      "type": ".png",
+      "hash": "a3955603d74ed8a0924b766e6f4abeff3bc7358140f8ade71c7e2f56834a8b75"
+    },
+    {
+      "name": "items/3091.png",
+      "size": 6287,
+      "type": ".png",
+      "hash": "788b62bd759aa6940f7f5676d1069b610c76111fc4bf5d537bc0d4a814ac8f0c"
+    },
+    {
+      "name": "items/3093.png",
+      "size": 7781,
+      "type": ".png",
+      "hash": "710f5178dc166dc13f0a08e42bb755e016999d47750f47eb8bb3b4e37c28e5cb"
+    },
+    {
+      "name": "items/3094.png",
+      "size": 5165,
+      "type": ".png",
+      "hash": "d0820c6b2e42a00119b1d3a671e076761f8a2b626c5a315677c7e39efe734cb6"
+    },
+    {
+      "name": "items/3095.png",
+      "size": 5199,
+      "type": ".png",
+      "hash": "0a315b2babcf5fe346c073b4fa3ea0ce30d8e2c5273a1f2964ad06cb8a003354"
+    },
+    {
+      "name": "items/3112.png",
+      "size": 6817,
+      "type": ".png",
+      "hash": "aa51c0e26b00ce4b70fe7a234f08bc5e61e2b532e88ec21d54676e2172e90551"
+    },
+    {
+      "name": "items/3114.png",
+      "size": 4355,
+      "type": ".png",
+      "hash": "5877b9d2981bf2eb927aee371b189eafbfe717434d014fe8d74cac182f44b71f"
+    },
+    {
+      "name": "items/3115.png",
+      "size": 6579,
+      "type": ".png",
+      "hash": "2651aa1863903d3b8b8027bb4ac4d8d327879d2d734084c9503c2cabfa80df16"
+    },
+    {
+      "name": "items/3116.png",
+      "size": 6218,
+      "type": ".png",
+      "hash": "4e3c0cea24b8ad73861450bb90a8323d748c150135fa36fe0b001eefb63560e1"
+    },
+    {
+      "name": "items/3117.png",
+      "size": 5632,
+      "type": ".png",
+      "hash": "be9801bb03f846ac615d17c52a43e4a556e6a123449630956226718bd5fd966a"
+    },
+    {
+      "name": "items/3126.png",
+      "size": 6425,
+      "type": ".png",
+      "hash": "6ca44212f983afab4ce31df38f892a1ff993cb7f84dcdf4715fa35fd2fbc1445"
+    },
+    {
+      "name": "items/3138.png",
+      "size": 6018,
+      "type": ".png",
+      "hash": "f62499baafc69ca07735cf486bccc2802ca1d22b76ec7f68c0caca2001ee4187"
+    },
+    {
+      "name": "items/3142.png",
+      "size": 10157,
+      "type": ".png",
+      "hash": "79e8c0dc6f6ce5d6d08257046a21c7472f0c1edfd3dc747f105e91d904e203b8"
+    },
+    {
+      "name": "items/3143.png",
+      "size": 11340,
+      "type": ".png",
+      "hash": "5846b22f57a4471144fba7a2549ae4ce1747ad72f18d7d46e8af4d763b405cfb"
+    },
+    {
+      "name": "items/3144.png",
+      "size": 7549,
+      "type": ".png",
+      "hash": "d3ad283613a29f3da713bdb5b310acdaba34d8e35aa6d29030836808b2fb6ce5"
+    },
+    {
+      "name": "items/3145.png",
+      "size": 12748,
+      "type": ".png",
+      "hash": "0225844826435ebd7d29e0f119c4fcb012d63496b634989685c77f0c4036de95"
+    },
+    {
+      "name": "items/3146.png",
+      "size": 12693,
+      "type": ".png",
+      "hash": "897d4524addcfbff73493257e3b5686e813c3162015a4510669e6f20008a4880"
+    },
+    {
+      "name": "items/3154.png",
+      "size": 7914,
+      "type": ".png",
+      "hash": "4ba8b4ca6d835038ca54cf4c063136da76ba634161d863dfc617b1401a3bdba3"
+    },
+    {
+      "name": "items/3155.png",
+      "size": 11540,
+      "type": ".png",
+      "hash": "31031125c7506bdc52dec569ee733138320da8badffee0a7c115442448808831"
+    },
+    {
+      "name": "items/3157.png",
+      "size": 10230,
+      "type": ".png",
+      "hash": "d02b7e2573976cd083b53d604c3d4bd00a733020487dc103d0aa95a7e9f83f97"
+    },
+    {
+      "name": "items/3158.png",
+      "size": 12261,
+      "type": ".png",
+      "hash": "cf5341533c1cbc76da58ce325eda1b3c6e4aa17a3fb0a330a4ddf33e80a93cbb"
+    },
+    {
+      "name": "items/3165.png",
+      "size": 11748,
+      "type": ".png",
+      "hash": "a9c02c4c3221d4302e86b47e91defdbff5d58738f99ebe89ba5111b9b7dc0650"
+    },
+    {
+      "name": "items/3170.png",
+      "size": 12568,
+      "type": ".png",
+      "hash": "98db3b427cdc8f7891941b7707f046be91c938f9a776cc91ffa483cf8c44c6dc"
+    },
+    {
+      "name": "items/3172.png",
+      "size": 11912,
+      "type": ".png",
+      "hash": "b765dad09759eeafe6bfe6d045108d6e6ac16dd8e5344986282d1e088a4615e9"
+    },
+    {
+      "name": "items/3173.png",
+      "size": 11543,
+      "type": ".png",
+      "hash": "36870497b510a72fddf265513610711d8675e785b0817e5d1791fac06211a1cd"
+    },
+    {
+      "name": "items/3178.png",
+      "size": 9393,
+      "type": ".png",
+      "hash": "37ce34d0fb7c4f2f98e3c83a743202368aa43ed934e2fadca74e7b79a3b03230"
+    },
+    {
+      "name": "items/3180.png",
+      "size": 8015,
+      "type": ".png",
+      "hash": "96de27e4350ad73499e65f1cc25a2b2edd0fb74a6ccc80de6171ab489fbdf035"
+    },
+    {
+      "name": "items/3181.png",
+      "size": 8914,
+      "type": ".png",
+      "hash": "3ed23133b308020435f34a80298b5b700df9e0fc835861adde9f854d6e3ab7fe"
+    },
+    {
+      "name": "items/3183.png",
+      "size": 9859,
+      "type": ".png",
+      "hash": "b0dc905ba6bbae9628848d28070c4ccc501deea4bfbf5b2cc9c84111a6aa4d42"
+    },
+    {
+      "name": "items/3184.png",
+      "size": 9653,
+      "type": ".png",
+      "hash": "fb463dd7f7a74a292372d80903b820024166549c11e32429157ecd449db801ab"
+    },
+    {
+      "name": "items/3185.png",
+      "size": 7949,
+      "type": ".png",
+      "hash": "fac282f6d7db0d755a05b77241292b20a3d307ba62aefb5b360d8e18cc0caebe"
+    },
+    {
+      "name": "items/3186.png",
+      "size": 9026,
+      "type": ".png",
+      "hash": "96c7e2024de95a49dcaca19c0ddab35988eda19fd3c56b81ac315eaae463ff52"
+    },
+    {
+      "name": "items/3187.png",
+      "size": 7751,
+      "type": ".png",
+      "hash": "b762e74c93000c11ca4a8b10819a80b75aded84865e92cfdfc579c6783dc7b04"
+    },
+    {
+      "name": "items/3196.png",
+      "size": 9571,
+      "type": ".png",
+      "hash": "3531ac4f715ca406924a9f752e48e7a9ce5cddabf82fa69afd30b810d3a337c1"
+    },
+    {
+      "name": "items/3197.png",
+      "size": 9764,
+      "type": ".png",
+      "hash": "3f4b6c2e8bbd4ea1e3901651d72ab0fe863b2893c296545d31b7edbc69797870"
+    },
+    {
+      "name": "items/3198.png",
+      "size": 9382,
+      "type": ".png",
+      "hash": "641144d2b8b555c0400791e06b7cbc62c0ee911631d40bb4de0de98bef6fd552"
+    },
+    {
+      "name": "items/3200.png",
+      "size": 9906,
+      "type": ".png",
+      "hash": "41aadafaa18c73294bf35d569cea6edb13dfea8206158557358fe034a6ca861f"
+    },
+    {
+      "name": "items/Eggnog_HealthPotion.png",
+      "size": 5056,
+      "type": ".png",
+      "hash": "e9650ba0b2908487bfa9710d0cdfbe7384e25c5b23ae4111100fda67fab8c3e1"
+    },
+    {
+      "name": "items/Eggnog_Potion.png",
+      "size": 6348,
+      "type": ".png",
+      "hash": "c1cd50362bb12cfc38439c7c11cd160bc45583d4a45341a883d33b618d52bd64"
+    },
+    {
+      "name": "items/EmptyIcon.png",
+      "size": 4782,
+      "type": ".png",
+      "hash": "d513b818b1958973c6ffddfb13580c6aa5e438ee6471878b0c9947c84848800b"
+    },
+    {
+      "name": "items/Icon_Potion01.png",
+      "size": 4114,
+      "type": ".png",
+      "hash": "05c59a4cd1edf7ef0ed944a6f59604a4374a3d4335a0bcf501c6602bd24d2423"
+    },
+    {
+      "name": "items/Icon_Potion02.png",
+      "size": 3864,
+      "type": ".png",
+      "hash": "bae16f6af5048119e522c9814eecd795229e84dc4a1697d5a7aea5b5daaf2cae"
+    },
+    {
+      "name": "items/Icon_Potion03.png",
+      "size": 4994,
+      "type": ".png",
+      "hash": "23b79c69ad44ff6c77d6d5e4c1697379aba87541bb64cb68863fa2efea97cd80"
+    },
+    {
+      "name": "items/cornerMask.png",
+      "size": 1069,
+      "type": ".png",
+      "hash": "a3b1e18ce3981f66646e03265a0fbcf958294750ec27eb32847b7b0292e9f673"
+    },
+    {
+      "name": "items/item1.png",
+      "size": 7835,
+      "type": ".png",
+      "hash": "02597bb4e30749f43238f04b2e8f37d279a3b1c06ae5d7aa9fa0713389916ff5"
+    },
+    {
+      "name": "items/item2.png",
+      "size": 4696,
+      "type": ".png",
+      "hash": "df3533094fb1a392ba67f2f2e85807e876537ca181e7147735dc544fc3dd9278"
+    },
+    {
+      "name": "items/item3.png",
+      "size": 9872,
+      "type": ".png",
+      "hash": "c21cc29557b5dffdda180e6c2a8a82551530c81f32e7fc53a37c1729c0e89116"
+    },
+    {
+      "name": "items/item4.png",
+      "size": 10545,
+      "type": ".png",
+      "hash": "048c2e197c8f848c4fa266a520966ffeac98df03ec0066d5c215fe5e1807deb0"
+    },
+    {
+      "name": "items/item5.png",
+      "size": 9108,
+      "type": ".png",
+      "hash": "ffd0c60193113c2f3aa074f5e82212c89ee37f2d9555cff567918561aa245fb0"
+    },
+    {
+      "name": "items/item6.png",
+      "size": 8511,
+      "type": ".png",
+      "hash": "78552060a9450c108582bd5366d1c147795c95b283882e8bf5736a54326cc078"
+    },
+    {
       "name": "manifest.json",
-      "size": 574100,
+      "size": 574340,
       "type": ".json",
-      "hash": "db95822ea7ddeea3a5692405d3c860914d33ad5fc722863314a878febe4bbf7e"
+      "hash": "0a27b7d3d996fcef065ec0f6ff079e8db0e0e8d2b8338348ada7d2957e4949f6"
+    },
+    {
+      "name": "map/map1.png",
+      "size": 87708,
+      "type": ".png",
+      "hash": "7dedd99a80e2e56facdf92d97d4cf99ffe03ba07259078c86bfcf6a8dacd91a8"
+    },
+    {
+      "name": "map/map2.png",
+      "size": 134032,
+      "type": ".png",
+      "hash": "ec3944c7b0e4b51693ff0fec487e8f5e400859cba564616ad28961bc9016c188"
+    },
+    {
+      "name": "map/map3.png",
+      "size": 134032,
+      "type": ".png",
+      "hash": "ec3944c7b0e4b51693ff0fec487e8f5e400859cba564616ad28961bc9016c188"
+    },
+    {
+      "name": "map/map4.png",
+      "size": 134032,
+      "type": ".png",
+      "hash": "ec3944c7b0e4b51693ff0fec487e8f5e400859cba564616ad28961bc9016c188"
+    },
+    {
+      "name": "map/map5.png",
+      "size": 87708,
+      "type": ".png",
+      "hash": "7dedd99a80e2e56facdf92d97d4cf99ffe03ba07259078c86bfcf6a8dacd91a8"
+    },
+    {
+      "name": "map/map6.png",
+      "size": 87708,
+      "type": ".png",
+      "hash": "7dedd99a80e2e56facdf92d97d4cf99ffe03ba07259078c86bfcf6a8dacd91a8"
+    },
+    {
+      "name": "map/map8.png",
+      "size": 195697,
+      "type": ".png",
+      "hash": "1520d15c8e0b875103dbac93f2237f1ac283a77261471474ff76451e32b6a6a6"
     },
     {
       "name": "mastery/100-gray.png",
@@ -18499,12 +19837,6 @@
       "hash": "b7c1ec9663a1ad2a148eeccc17926be7c16ba2db4cb8baffc4c5ffdfd7946157"
     },
     {
-      "name": "summoner_icons/9421.png",
-      "size": 8232,
-      "type": ".png",
-      "hash": "3ee2fc6df6b73bf058a846ada4e9a3e220e8b9e478e73d59e9ed997d69a2ba2e"
-    },
-    {
       "name": "summoner_icons/9422.png",
       "size": 21254,
       "type": ".png",
@@ -18662,15 +19994,21 @@
     },
     {
       "name": "summoner_spells/Summoner_Clairvoyance.png",
-      "size": 7174,
+      "size": 11298,
       "type": ".png",
-      "hash": "78061a2f765cd9b260e4fa0c4101e802351dd68e128fc9ff551ec05820e0e0fd"
+      "hash": "e6763d19ff23b29ebd74f585c2214e6340a29c537a04abedfca1f8125a9e758a"
     },
     {
       "name": "summoner_spells/Summoner_Exhaust.png",
       "size": 6740,
       "type": ".png",
       "hash": "8744b0560e20aeed4d671afcfdc62638a81583a7abb5f55324bcb5f3e0677021"
+    },
+    {
+      "name": "summoner_spells/Summoner_Garrison.png",
+      "size": 4667,
+      "type": ".png",
+      "hash": "28520f8debf3508452fde5b4840aed53d7318aaadb3952d0c3b169d7397de911"
     },
     {
       "name": "summoner_spells/Summoner_clarity.png",
@@ -18680,9 +20018,9 @@
     },
     {
       "name": "summoner_spells/Summoner_cleanse.png",
-      "size": 9594,
+      "size": 11789,
       "type": ".png",
-      "hash": "fae320a6a8031aaec38e6c2f0f69d59603bc75514bfd53357fa5f9561487565a"
+      "hash": "49acd7defd5acdefa19a4c5234be6fbea50bdc3e6e674f858528ccda6ef2b964"
     },
     {
       "name": "summoner_spells/Summoner_flash.png",
@@ -18692,15 +20030,15 @@
     },
     {
       "name": "summoner_spells/Summoner_fortify.png",
-      "size": 6546,
+      "size": 12104,
       "type": ".png",
-      "hash": "bfddeda730ac7682e99c05f451c93a74642bedce800a391b60ce61f14166ec99"
+      "hash": "355c2e43648ddbf4965f9731bf0124344adff002420092bfc6f7ed5a412bff9e"
     },
     {
       "name": "summoner_spells/Summoner_ghost.png",
-      "size": 4561,
+      "size": 9866,
       "type": ".png",
-      "hash": "d798fda9ffc7922dc45025349b7ece9e92ecc6ef324ef81721d40f283b5017c4"
+      "hash": "174745a2211f58ab12db8d338a03f4f4037e998676471bfe1925c4625992fe80"
     },
     {
       "name": "summoner_spells/Summoner_haste.png",
@@ -18710,9 +20048,9 @@
     },
     {
       "name": "summoner_spells/Summoner_heal.png",
-      "size": 6855,
+      "size": 7566,
       "type": ".png",
-      "hash": "f4f7e4834e654bf9080e1eff9557d3d8ed827d24ff9cbc17572daf5cf1cfc107"
+      "hash": "9aadf69f5f1849feecfe2345d172e2f577ecbb2cc732e98fca17637f96400a3a"
     },
     {
       "name": "summoner_spells/Summoner_ignite.png",
@@ -18722,9 +20060,9 @@
     },
     {
       "name": "summoner_spells/Summoner_rally.png",
-      "size": 6386,
+      "size": 12385,
       "type": ".png",
-      "hash": "6649ae723d0738ced20984335a1c1b9e01665411849fff619269a1f5ddf0d2f5"
+      "hash": "9e93d72bb865de6f16a404f199271dfb19f22cf075fa2d60cfe61dd55ffd5c50"
     },
     {
       "name": "summoner_spells/Summoner_revive.png",
@@ -18785,6 +20123,12 @@
       "size": 86200,
       "type": ".jpg",
       "hash": "43c626e866ef3676f2f2095979f225198b09c94814895ff611bb32a53c7246c6"
+    },
+    {
+      "name": "summoner_spells/preview/SummonerGarrison.jpg",
+      "size": 231399,
+      "type": ".jpg",
+      "hash": "4b84c799b9c16da14b5fabb03fad78ee7acb81f458118fcc6f298e1cd498d5ef"
     },
     {
       "name": "summoner_spells/preview/SummonerGhost.jpg",
